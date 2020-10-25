@@ -29,30 +29,55 @@ def download_gz(url, filename):
         with gzip.GzipFile(fileobj=response) as uncompressed:
             shutil.copyfileobj(uncompressed, output_file)
             
-            print(f"Downloaded : {filename}")
+            print(f"Downloaded: {filename}")
             print()
 
 
 # In[3]:
 
 
-imdb_root = "https://datasets.imdbws.com"
-imdb_sets = [
-    "name.basics.tsv.gz",
-    "title.akas.tsv.gz",
-    "title.basics.tsv.gz",
-    "title.crew.tsv.gz",
-    "title.episode.tsv.gz",
-    "title.principals.tsv.gz",
-    "title.ratings.tsv.gz"
-]
+def s3_upload(filename):
+    """
+    uploads a file from the local filesystem to S3
+    :param filename: the filename to write to upload to S3
+    :return: None
+    """
+    
+    print(f"Uploading: {filename}")
+    
+    bucket_name = "wheeler-cloud-guru-challenges"
+    object_name = f"1020/IMDB/{filename}"
+    
+    get_ipython().system('aws s3 cp "{filename}" "s3://{bucket_name}/{object_name}"')
+    
+    print(f"Uploaded: s3://{bucket_name}/{object_name}")
+    print()
 
 
 # In[4]:
 
 
-for name in imdb_sets:
-    download_gz(f"{imdb_root}/{name}", name.replace(".gz", ""))
+imdb_root = "https://datasets.imdbws.com"
+imdb_sets = [
+    ("name.basics.tsv.gz"     , "name_basics.tsv"     ),
+    ("title.akas.tsv.gz"      , "title_akas.tsv"      ),
+    ("title.basics.tsv.gz"    , "title_basics.tsv"    ),
+    ("title.crew.tsv.gz"      , "title_crew.tsv"      ),
+    ("title.episode.tsv.gz"   , "title_episode.tsv"   ),
+    ("title.principals.tsv.gz", "title_principals.tsv"),
+    ("title.ratings.tsv.gz"   , "title_ratings.tsv"   )
+]
+
+
+# In[5]:
+
+
+for name_pair in imdb_sets:
+    src_name = name_pair[0]
+    dst_name = name_pair[1]
+    
+    download_gz(f"{imdb_root}/{src_name}", dst_name)
+    s3_upload(dst_name)
 
 
 # In[ ]:
