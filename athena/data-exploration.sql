@@ -1,3 +1,23 @@
+
+-- __________________________________________________________________________
+-- Create Genre Map
+
+select
+     x.value genre,
+     row_number() over (order by x.value) idx
+from title_basics tbasics
+join title_akas takas on tbasics.tconst = takas.titleid
+left join title_ratings tratings on tbasics.tconst = tratings.tconst
+cross join unnest(split(tbasics.genres, ',')) as x(value)
+where tbasics.startyear <= year(now()) 
+and tbasics.titleType = 'movie' 
+and tbasics.isadult = 0
+and takas.language = 'en'
+and takas.region = 'US'
+group by 1
+order by 2;
+
+
 -- __________________________________________________________________________
 -- Find Top 10 Genres
 

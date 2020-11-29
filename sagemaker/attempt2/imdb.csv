@@ -1,0 +1,805 @@
+id,genres,rating,title,votes,year,cluster,distance
+tt2073661,"[Drama, Thriller]",5,Dawn Patrol,652,2014,8.0,0.6725698113441467
+tt2402085,"[Biography, Drama, Music]",6,Jimi: All Is by My Side,6274,2013,1.0,0.2729933261871338
+tt2527338,"[Action, Adventure, Fantasy]",7,Star Wars: Episode IX - The Rise of Skywalker,354287,2019,2.0,0.3752748668193817
+tt2554714,"[Horror, Thriller]",2,Haunting of the Innocent,393,2014,4.0,0.6024733781814575
+tt8737614,"[Drama, Romance]",7,Majiji,2779,2019,6.0,0.4895946681499481
+tt3477762,[Drama],6,Boundaries,199,2016,1.0,0.2960120141506195
+tt3530978,"[Drama, Romance]",6,Correspondence,3900,2016,6.0,0.8770327568054199
+tt3824648,"[Comedy, Drama]",7,Big Time Adolescence,5718,2019,1.0,0.8848095536231995
+tt6518886,[Romance],6,Love Is a Broadway Hit,19,2017,6.0,1.1507186889648438
+tt6520962,[Romance],8,Stan the Man,16,2020,6.0,1.1331361532211304
+tt7661028,"[Crime, Horror, Thriller]",3,The Manson Family Massacre,259,2019,4.0,1.1777892112731934
+tt7695522,"[Drama, Horror, Thriller]",6,Diya,435,2018,0.0,1.2005423307418823
+tt7713068,"[Action, Adventure, Crime]",6,Birds of Prey: And the Fantabulous Emancipation of One Harley Quinn,149371,2020,2.0,1.0235484838485718
+tt0455944,"[Action, Crime, Thriller]",7,The Equalizer,327903,2014,8.0,1.335002064704895
+tt0773292,[Drama],8,Inner Circle Line,34,2006,1.0,0.32964229583740234
+tt1328909,[Comedy],4,All American Orgy,930,2009,3.0,0.3574078679084778
+tt1502397,"[Action, Comedy, Crime]",7,Bad Boys for Life,117743,2020,7.0,1.3270388841629028
+tt1548599,[Drama],8,The Voice of the Voiceless,81,2013,1.0,0.33250197768211365
+tt1620680,"[Adventure, Family, Fantasy]",4,A Wrinkle in Time,40277,2018,2.0,0.8517434597015381
+tt8403168,[Documentary],8,Hesburgh,90,2018,5.0,0.21222800016403198
+tt5460522,"[Biography, Drama]",5,JT LeRoy,1663,2018,1.0,0.2417805790901184
+tt5494608,"[Crime, Thriller]",5,Signature Work,14,2016,8.0,1.0604536533355713
+tt2784678,"[Comedy, Romance]",6,Top Five,25601,2014,3.0,0.8231609463691711
+tt3468298,"[Adventure, Animation, Comedy]",5,Axel: The Biggest Little Hero,127,2013,3.0,0.9201444983482361
+tt11024272,"[Comedy, Horror]",6,The Babysitter: Killer Queen,20861,2020,3.0,0.9859148263931274
+tt0099704,"[Horror, Western]",5,Grim Prairie Tales,902,1990,4.0,0.520114541053772
+tt0145484,[Comedy],6,Spaghetti a mezzanotte,442,1981,3.0,0.41590356826782227
+tt0046919,[Drama],8,The Ditch,69,1954,1.0,0.6124151349067688
+tt0061504,[Comedy],5,Common Law Cabin,617,1967,3.0,0.4872087836265564
+tt0086499,"[Comedy, Family, History]",7,The Doctor's Pupil,60,1984,3.0,0.4413635730743408
+tt9497120,[Horror],4,Semiconductor,20,2018,4.0,0.5431597232818604
+tt1988781,[Horror],3,7 Below,3864,2012,4.0,0.4878841042518616
+tt0332047,"[Comedy, Drama, Romance]",6,The Perfect Catch,42037,2005,6.0,0.6171403527259827
+tt0075011,"[Animation, Family, Fantasy]",6,Once Upon a Time,136,1973,3.0,1.0302867889404297
+tt0077440,"[Drama, Music]",6,Jukebox,40,1978,1.0,0.47888967394828796
+tt2948372,"[Adventure, Animation, Comedy]",8,Soul,256,2020,3.0,0.9098489284515381
+tt3004572,"[Action, Adventure, Sci-Fi]",2,2101,271,2014,2.0,0.6313114166259766
+tt3256226,"[Adventure, Drama, Sci-Fi]",5,IO,30215,2019,1.0,0.9805440306663513
+tt2234162,[Documentary],7,Habana Libre,10,2012,5.0,0.22169071435928345
+tt2527336,"[Action, Adventure, Fantasy]",7,Star Wars: Episode VIII - The Last Jedi,551939,2017,2.0,0.3700801432132721
+tt4866056,[Horror],7,Scarecrowd,39,2015,4.0,0.5023641586303711
+tt4881806,"[Action, Adventure, Sci-Fi]",6,Jurassic World: Fallen Kingdom,259628,2018,2.0,0.34428536891937256
+tt0923671,"[Horror, Thriller]",4,The Day of the Dead,55,2007,4.0,0.5923081040382385
+tt1457767,"[Horror, Mystery, Thriller]",8,The Conjuring,433848,2013,0.0,0.6105476021766663
+tt1478839,"[Comedy, Drama, Romance]",8,The Art of Racing in the Rain,22960,2019,6.0,0.7053205370903015
+tt0047975,"[Adventure, Drama, History]",6,The Warriors,478,1955,1.0,1.112377405166626
+tt0067576,[Comedy],6,The Sidelong Glances of a Pigeon Kicker,62,1970,3.0,0.5309658646583557
+tt0109028,"[Comedy, Drama, Mystery]",7,Cold Fever,1707,1995,1.0,1.2868950366973877
+tt1222816,"[Documentary, Family, News]",7,Disneynature: Wings of Life,492,2011,5.0,0.11190751940011978
+tt12354874,[Animation],6,Ginger's Tale,63,2020,3.0,1.0226314067840576
+tt7983890,[Drama],6,Ms. Purple,457,2019,1.0,0.2999795973300934
+tt8041276,"[Comedy, Drama]",7,Paddleton,10502,2019,1.0,0.8875975608825684
+tt2634414,"[Action, Adventure, Comedy]",4,Alligator Alley,707,2013,2.0,0.9406338930130005
+tt2698966,[Thriller],6,The Debt,663,2015,8.0,0.47888344526290894
+tt3057572,"[Drama, Music]",7,Of Mind and Music,365,2014,1.0,0.2550973892211914
+tt3296908,"[Action, Biography, Thriller]",6,The Man with the Iron Heart,13559,2017,8.0,0.9427843689918518
+tt4572700,[Horror],3,Mother Krampus 2: Slay Ride,161,2018,4.0,0.5252095460891724
+tt3978720,"[Comedy, Drama]",7,4th Man Out,9423,2015,1.0,0.8812172412872314
+tt0139151,"[Action, Comedy, Drama]",5,Inferno,8851,1999,1.0,1.2455108165740967
+tt0222719,"[Comedy, Fantasy, Horror]",4,Andromina: The Pleasure Planet,279,1999,3.0,1.0242068767547607
+tt7009250,[Thriller],5,Her Son's Secret,402,2018,8.0,0.5007016658782959
+tt7616148,"[Drama, Mystery]",7,Luce,9186,2019,1.0,1.0015114545822144
+tt10715194,[Comedy],5,Back to School,961,2019,3.0,0.3571920096874237
+tt1937340,"[Drama, Romance]",6,Beyond Paradise,358,2018,6.0,0.519632875919342
+tt0042895,"[Romance, Western]",7,Rio Grande,14158,1950,6.0,1.184090256690979
+tt0075419,"[Horror, Music]",8,Alice Cooper: Welcome to My Nightmare (Concert Feature),418,1975,4.0,0.5922367572784424
+tt6155456,[Drama],6,Juanita,2025,2019,1.0,0.2902395725250244
+tt6316466,[Comedy],4,Adam,1398,2019,3.0,0.3503226637840271
+tt6913168,"[Comedy, Crime]",5,Belleville Cop,1565,2018,3.0,1.2348127365112305
+tt0455829,"[Action, Crime, Thriller]",8,Vettaiyaadu Vilaiyaadu,6533,2006,7.0,1.3576747179031372
+tt8196692,"[Action, Thriller]",7,Soul Hunters,1285,2019,8.0,0.9804001450538635
+tt8354582,"[Mystery, Thriller]",4,Deadly Switch,873,2019,8.0,1.0078585147857666
+tt8487580,[Drama],6,Wandering Girl,193,2018,1.0,0.30715256929397583
+tt2734498,"[Comedy, Drama, Romance]",6,Available: A Modern Day Fairy Tale,53,2013,6.0,0.7406912446022034
+tt4643048,[Thriller],5,Fatal Pulse,132,2018,8.0,0.5007423758506775
+tt5176580,"[Comedy, History]",6,Wild Nights with Emily,833,2018,3.0,0.3453066945075989
+tt3526470,"[Crime, Drama, Thriller]",6,The Operative,449,2015,7.0,1.0176383256912231
+tt0111526,[Documentary],8,The Righteous (1994),6,1994,5.0,0.3788784146308899
+tt0212720,"[Drama, Sci-Fi]",7,A.I. Artificial Intelligence,287497,2001,1.0,0.3574892282485962
+tt0275287,"[Comedy, Crime]",5,Virtual Weapon,382,1997,3.0,0.9972130656242371
+tt7368158,"[Action, Adventure, Animation]",5,GoAnimate: The Movie,127,2006,2.0,0.4904842972755432
+tt1391087,[Comedy],6,Perfect Sunday,45,2010,3.0,0.4198196530342102
+tt1417299,"[Crime, Drama, Mystery]",8,Unnaipol Oruvan,5101,2009,7.0,1.101313591003418
+tt1901024,"[Crime, Drama, Thriller]",5,Dark Crimes,13916,2016,7.0,0.9873517751693726
+tt1954579,[Documentary],7,Reel Black Love,11,2011,5.0,0.2199442833662033
+tt1160368,"[Action, Crime, Thriller]",6,12 Rounds,27021,2009,8.0,1.3094029426574707
+tt1180311,"[Documentary, Drama]",7,The Flower of Kim Jong II,798,2009,5.0,0.9368531107902527
+tt0063202,"[Action, Adventure, Comedy]",6,Las Vegas Free-for-All,9,1967,2.0,1.1208794116973877
+tt6566768,[Drama],6,Native Son,1959,2019,1.0,0.29017096757888794
+tt0469185,[Documentary],8,The Shark Is Still Working: The Impact & Legacy of 'Jaws',641,2007,5.0,0.21425895392894745
+tt2740874,"[Biography, Documentary, Drama]",7,Two: The Story of Roman & Nyro,39,2013,5.0,0.9524726867675781
+tt2808964,"[Family, Romance]",8,Blue Boy,22,2011,6.0,1.1216758489608765
+tt2367954,"[Horror, Thriller]",5,Strip Mahjong: Battle Royale,186,2011,4.0,0.5572598576545715
+tt4890766,[Horror],2,Play with Me,9,2016,4.0,0.5889654755592346
+tt5037840,[Comedy],4,Drunk Parents,5883,2019,3.0,0.35023587942123413
+tt8970448,[Drama],6,Adopt a Highway,2668,2019,1.0,0.2902338206768036
+tt9165332,[Drama],7,Chitralahari,1597,2019,1.0,0.3656248450279236
+tt4154756,"[Action, Adventure, Sci-Fi]",8,Avengers: Infinity War,807376,2018,2.0,0.4313914477825165
+tt0119338,"[Crime, Drama, Romance]",6,Hurricane Streets,1142,1997,6.0,1.0666593313217163
+tt0156788,[Drama],5,Secret Sins,86,1995,1.0,0.4304885268211365
+tt0204388,"[Comedy, Horror]",4,Hookers in a Haunted House,63,1999,3.0,1.0096967220306396
+tt0283426,"[Adventure, Animation, Family]",5,The Jungle Book 2,14827,2003,2.0,0.8277362585067749
+tt7284202,"[Horror, Thriller]",5,Trespassers,1687,2018,4.0,0.6071674823760986
+tt7297962,[Drama],6,The Poet and the Boy,104,2017,1.0,0.2939947843551636
+tt9605894,"[Horror, Mystery, Thriller]",4,Nishabdham,1840,2020,0.0,0.5322919487953186
+tt2350892,"[Action, Crime, Drama]",6,Bad Country,7955,2014,7.0,0.6724120378494263
+tt2366608,"[Drama, Fantasy, Mystery]",6,Lost River,16931,2014,1.0,1.0775092840194702
+tt1951181,"[Drama, Romance]",7,The Immigrant,29401,2013,6.0,0.47125643491744995
+tt4353250,[Drama],7,The Last Black Man in San Francisco,13416,2019,1.0,0.3660031855106354
+tt1205428,"[Drama, Romance]",5,And They're Off,23,1982,6.0,0.6255525350570679
+tt6156498,"[Comedy, Sport]",6,Los Domirriqueños 2,35,2019,3.0,0.4377712905406952
+tt6469960,[Drama],3,An Imperfect Murder,243,2017,1.0,0.4198310077190399
+tt7297958,[Drama],6,A Fish Out of Water,60,2017,1.0,0.3922612965106964
+tt1590193,"[Action, Mystery, Thriller]",6,The Commuter,100972,2018,8.0,1.2870820760726929
+tt5882982,"[Drama, Mystery, Thriller]",7,Memoirs of a Murderer,1631,2017,8.0,1.2315611839294434
+tt5968394,"[Action, Horror, Sci-Fi]",6,Captive State,46616,2019,4.0,1.0604660511016846
+tt6069162,"[Drama, Music, Romance]",4,Here and Now,1195,2018,6.0,0.6093611121177673
+tt3228450,[Horror],5,The Curse of All Hallows' Eve,10,2017,4.0,0.5236690640449524
+tt4504044,"[Horror, Mystery, Thriller]",6,The Prodigy,22474,2019,0.0,0.5264133810997009
+tt4642192,"[Biography, Drama, Romance]",7,The Keeper,3096,2018,6.0,0.4811708927154541
+tt0332379,"[Comedy, Music]",7,School of Rock,264342,2003,3.0,0.4581296145915985
+tt0172495,"[Action, Adventure, Drama]",8,Gladiator,1317472,2000,2.0,1.0237834453582764
+tt0027904,"[Action, Crime, Drama]",6,Scotland Yard Commands,44,1936,7.0,1.0136852264404297
+tt0062767,"[Comedy, Romance]",7,"Buona Sera, Mrs. Campbell",1397,1968,3.0,0.92341548204422
+tt2353965,"[Sci-Fi, Thriller]",6,Frequency,17,2012,8.0,0.5284284949302673
+tt2525156,"[Horror, Thriller]",3,Transylvanian Curse,412,2015,4.0,0.5836803317070007
+tt8769848,"[Drama, Romance]",6,The Tomorrow Man,1274,2019,6.0,0.45696550607681274
+tt1821426,"[Comedy, Drama]",6,Family Weekend,6596,2013,1.0,0.8512841463088989
+tt3624446,"[Comedy, Horror]",5,Spanish Chainsaw Massacre,52,2017,3.0,1.004077434539795
+tt1349485,"[Comedy, Drama]",7,The Knife of Don Juan,35,2013,1.0,0.8816101551055908
+tt1431045,"[Action, Adventure, Comedy]",8,Deadpool,887702,2016,2.0,0.9191887974739075
+tt1541123,"[Drama, Sci-Fi]",5,Astronaut: The Last Push,1554,2012,1.0,0.230831578373909
+tt7930006,[Mystery],5,House of Deadly Secrets,499,2018,1.0,1.386963129043579
+tt8637428,"[Comedy, Drama]",8,The Farewell,46591,2019,1.0,0.9265143871307373
+tt1258221,"[Drama, Romance, Thriller]",7,Interrogation of a Husband,22,2010,6.0,1.2111345529556274
+tt3401392,"[Crime, Thriller]",6,The Devotion of Suspect X,737,2017,8.0,1.0266518592834473
+tt4577624,"[Comedy, Drama, Romance]",8,Someone I Used to Know,21,2016,6.0,0.7112268805503845
+tt0306188,"[Comedy, Romance]",8,Chances Are,37,2001,3.0,0.8148717880249023
+tt0120631,"[Comedy, Drama, Romance]",7,Ever After: A Cinderella Story,68561,1998,6.0,0.6401428580284119
+tt0179344,"[Drama, Thriller]",3,Tell Me No Lies,175,2001,8.0,0.7308422327041626
+tt0028346,"[Crime, Drama]",4,Reefer Madness,7784,1936,7.0,0.8593037128448486
+tt0067525,"[Action, Drama, Sci-Fi]",6,The Ωmega Man,28556,1971,1.0,1.0213671922683716
+tt1876277,"[Action, Biography, Drama]",7,Into the White,19436,2012,1.0,0.9845029711723328
+tt8972256,"[Comedy, Drama]",6,Greed,3818,2019,1.0,0.856269359588623
+tt0071402,"[Action, Crime, Drama]",7,Death Wish,35037,1974,7.0,0.7548272013664246
+tt0080319,[Comedy],7,9 to 5,27048,1980,3.0,0.5153105854988098
+tt0107688,"[Animation, Family, Fantasy]",8,The Nightmare Before Christmas,288750,1993,3.0,1.0769137144088745
+tt0991174,"[Comedy, Drama, Romance]",6,Ingenious,1849,2009,6.0,1.032880187034607
+tt12443930,[Drama],7,"The Things We Say, the Things We Do",238,2020,1.0,0.2731941342353821
+tt6974888,[Drama],4,Driven to Dance,242,2018,1.0,0.3803444504737854
+tt7225608,[Drama],4,The Last Nazi,33,2019,1.0,0.4528403878211975
+tt1335992,"[Action, Drama]",4,Jackers,462,2010,1.0,0.9890580177307129
+tt1386697,"[Action, Adventure, Fantasy]",6,Suicide Squad,590833,2016,2.0,0.3391411304473877
+tt5329934,[Documentary],8,Forgotten in California,18,2016,5.0,0.8134807348251343
+tt5562066,"[Comedy, Romance]",5,When Larry Meets Mary,93,2016,3.0,0.8514835238456726
+tt5657846,[Comedy],6,Daddy's Home 2,60000,2017,3.0,0.4037265181541443
+tt0297769,"[Action, Drama]",4,The Bounty Huntress,66,2001,1.0,1.0216612815856934
+tt9806370,"[Action, Horror, Thriller]",5,The Owners,2889,2020,4.0,1.0643929243087769
+tt3518012,"[Biography, Documentary, History]",8,Best of Enemies: Buckley vs. Vidal,5825,2015,5.0,0.483615517616272
+tt0192069,[Documentary],6,Gendernauts: A Journey Through Shifting Identities,141,1999,5.0,0.15460290014743805
+tt0445601,[Documentary],9,Of Ashes and Atoms: The Story of the NASA Plum Brook Reactor Facility,10,2004,5.0,0.15930134057998657
+tt12586452,"[Comedy, Family, Fantasy]",8,Merman Academy: The Movie,6,2020,3.0,0.5171636343002319
+tt3405236,"[Action, Crime, Drama]",7,Raees,39580,2017,7.0,0.7006198167800903
+tt4824256,"[Drama, Sport]",5,Blackbear,655,2019,1.0,0.2694259583950043
+tt5061570,"[Drama, Thriller]",5,Hostile Border,532,2015,8.0,0.6723971366882324
+tt5079452,"[Action, Crime, Drama]",5,Strangers at the Door,65,2017,7.0,0.7939472794532776
+tt2103267,"[Drama, Romance]",6,Adore,31856,2013,6.0,0.43854397535324097
+tt8772262,"[Drama, Horror, Mystery]",7,Midsommar,184083,2019,0.0,0.998724102973938
+tt1974419,"[Horror, Thriller]",6,The Neon Demon,82358,2016,4.0,0.6502694487571716
+tt1987547,[Drama],6,Deceptz,11,2011,1.0,0.38415199518203735
+tt3619972,"[Horror, Mystery, Thriller]",2,Pull,104,2019,0.0,0.6947811245918274
+tt3861390,"[Adventure, Family, Fantasy]",6,Dumbo,63699,2019,2.0,0.8311874866485596
+tt10003008,"[Horror, Thriller]",6,The Rental,11991,2020,4.0,0.6554451584815979
+tt12036096,"[Drama, Thriller]",6,A Deadly Lullaby,143,2020,8.0,0.6805374026298523
+tt7279188,"[Adventure, Comedy, Drama]",7,Woman at War,7513,2018,1.0,1.2973073720932007
+tt0466460,"[Comedy, Crime, Drama]",8,Khosla's Nest,22008,2006,7.0,1.0111145973205566
+tt1638277,"[Drama, Fantasy, Sci-Fi]",6,Mars et Avril,758,2012,1.0,0.5155618786811829
+tt1274418,"[Action, Crime, Drama]",4,Fist of the Warrior,374,2007,7.0,0.7553598880767822
+tt2652118,"[Action, Adventure, Drama]",6,"Crouching Tiger, Hidden Dragon: Sword of Destiny",17487,2016,2.0,0.9928234815597534
+tt3469284,"[Action, Adventure, Comedy]",2,Jurassic Prey,645,2015,2.0,1.008315920829773
+tt0265625,"[Comedy, Drama]",5,Roads to Riches,466,2002,1.0,0.8691664338111877
+tt0103805,"[Crime, Drama, Thriller]",7,Beyond the Law,6140,1993,7.0,1.0105652809143066
+tt0249555,[Documentary],6,Buster Keaton: The Great Stone Face,39,1968,5.0,0.44883233308792114
+tt0018455,"[Drama, Romance]",8,Sunrise,46354,1927,6.0,0.8671408891677856
+tt0020697,"[Drama, Music]",8,The Blue Angel,13424,1930,1.0,0.868006706237793
+tt0026725,"[Drama, History, Romance]",8,Les Misérables,3289,1935,6.0,0.8934686183929443
+tt0044907,"[Adventure, Drama, History]",7,Les Miserables,956,1952,1.0,1.1118627786636353
+tt0054215,"[Horror, Mystery, Thriller]",8,Psycho,592689,1960,0.0,0.7933261394500732
+tt0089984,"[Action, Adventure, Animation]",7,He-Man and She-Ra: The Secret of the Sword,2377,1985,2.0,0.41677457094192505
+tt0094721,"[Comedy, Fantasy]",8,Beetlejuice,256527,1988,3.0,0.930716335773468
+tt2510700,"[Horror, Thriller]",7,Palace of the Damned,63,2013,4.0,0.5653164386749268
+tt0083146,"[Horror, Thriller]",5,Sweet Sixteen,1443,1983,4.0,0.6437897086143494
+tt0084458,"[Adventure, Animation, Comedy]",7,The Wizard of Oz,347,1982,3.0,0.9261399507522583
+tt7007696,"[Drama, Mystery]",6,Share,1568,2019,1.0,0.9763718247413635
+tt7108976,"[Comedy, Crime]",6,Detective K: Secret of the Living Dead,354,2018,3.0,0.9939240217208862
+tt8234892,"[Drama, Mystery, Thriller]",5,Knives and Skin,682,2019,8.0,1.1763557195663452
+tt5446858,[Documentary],8,Zero Days,8709,2016,5.0,0.4846000075340271
+tt5913798,"[Drama, Horror, Mystery]",4,Wounds,15064,2019,0.0,0.9817261099815369
+tt0376127,"[Action, Drama, Thriller]",8,Anniyan,13943,2005,8.0,1.1332834959030151
+tt0120523,"[Comedy, Romance]",5,Wishful Thinking,1245,1997,3.0,0.7992515563964844
+tt6330246,"[Comedy, Drama, Family]",7,School of Life,1169,2017,1.0,0.8825078010559082
+tt6673612,"[Adventure, Comedy, Family]",6,Dolittle,41199,2020,3.0,0.9342796802520752
+tt6954136,"[Romance, Thriller]",4,Intuitions,206,2019,8.0,1.3455777168273926
+tt0800325,"[Biography, Comedy, Drama]",7,The Dirt,38070,2019,1.0,0.8847343921661377
+tt0837563,"[Horror, Mystery, Thriller]",6,Pet Sematary,78538,2019,0.0,0.5269321799278259
+tt2657152,"[Horror, Sci-Fi, Thriller]",6,Infestation: Day One,118,2013,4.0,0.9502132534980774
+tt2822672,"[Adventure, Animation, Comedy]",6,Rock Dog,4502,2016,3.0,0.9291155934333801
+tt4807408,"[Biography, Drama, History]",7,The Best of Enemies,8718,2019,1.0,0.3643091917037964
+tt4913966,"[Horror, Mystery, Thriller]",5,The Curse of la Llorona,36057,2019,0.0,0.5161961913108826
+tt4935462,"[Documentary, Music]",8,Amazing Grace,3417,2018,5.0,0.488212525844574
+tt5078354,"[Biography, Drama]",6,Cezanne et Moi,1059,2016,1.0,0.2808661460876465
+tt1954320,[Drama],7,Carl[a],31,2011,1.0,0.3567027449607849
+tt2273648,"[Action, Fantasy, Horror]",5,Adrenochrome,399,2017,4.0,1.0079882144927979
+tt2275629,[Drama],6,Cliffs of Freedom,341,2019,1.0,0.3046479821205139
+tt2292196,[Thriller],5,Refuge,480,2013,8.0,0.49906882643699646
+tt2298274,"[Drama, Sci-Fi]",2,New World OrdeRx,239,2013,1.0,0.4624917805194855
+tt0103824,[Documentary],7,Black to the Promised Land,20,1992,5.0,0.26137760281562805
+tt0860461,[Musical],5,A Melody Looking,28,2006,3.0,1.021885633468628
+tt7390646,"[Action, Crime, Thriller]",6,Black and Blue,14733,2019,8.0,1.3096555471420288
+tt1399103,"[Action, Adventure, Sci-Fi]",6,Transformers: Dark of the Moon,381358,2011,2.0,0.3365667760372162
+tt1648062,"[Action, Comedy, Drama]",2,Cowboys Vs. Vampires,342,2010,1.0,1.3063424825668335
+tt8193790,"[Comedy, Horror]",7,Deerskin,5151,2019,3.0,1.015175223350525
+tt8650976,[Drama],5,Guest Artist,183,2019,1.0,0.3365926444530487
+tt5390246,"[Action, Crime, Drama]",4,Heartbeat,455,2017,7.0,0.7632590532302856
+tt1042916,"[Action, Adventure, Animation]",6,Totally Spies! The Movie,430,2009,2.0,0.45025911927223206
+tt3717252,"[Action, Adventure, Fantasy]",6,Underworld: Blood Wars,68665,2016,2.0,1.0269880294799805
+tt4229236,"[Animation, Biography, Documentary]",8,Cobain: Montage of Heck,27671,2015,5.0,0.48311588168144226
+tt0116306,[Thriller],6,Sweet Evil,271,1996,8.0,0.5130869746208191
+tt0174503,[Comedy],2,Bikini Med School,113,1994,3.0,0.48968610167503357
+tt6294226,"[Action, Crime, Fantasy]",5,Stray,668,2019,7.0,1.0548282861709595
+tt6387506,"[Drama, Music, Romance]",6,The Violin Player,276,2018,6.0,0.6465064883232117
+tt4972582,"[Horror, Thriller]",7,Split,411982,2016,4.0,0.7154291868209839
+tt1180577,"[Biography, Documentary, War]",7,A Hero in Heaven,18,2007,5.0,0.21818606555461884
+tt1867093,"[Action, Crime, Drama]",6,The Samaritan,9426,2012,7.0,0.6704519391059875
+tt1967651,"[Drama, Thriller]",6,Unconditional Love,698,2012,8.0,0.6767497062683105
+tt2404465,"[Comedy, Drama, Family]",7,Troop Zero,8538,2019,1.0,0.8845174312591553
+tt9086228,"[Fantasy, Horror, Mystery]",5,Gretel & Hansel,19810,2020,0.0,0.7442854046821594
+tt9155002,[Horror],3,Zombie 108,17,2012,4.0,0.5458949208259583
+tt0024787,"[Crime, Drama, Mystery]",5,The World Gone Mad,445,1933,7.0,1.2979234457015991
+tt0065421,"[Adventure, Animation, Comedy]",7,The Aristocats,91905,1970,3.0,1.0104786157608032
+tt0065555,"[Action, Crime, Thriller]",6,Violent City,2205,1970,7.0,1.3658043146133423
+tt0077176,"[Crime, Drama]",6,The Gun,81,1978,7.0,0.7066104412078857
+tt0103873,"[Action, Comedy, Fantasy]",8,Dead Alive,90507,1992,3.0,1.1160168647766113
+tt0844708,"[Horror, Thriller]",6,The Last House on the Left,84706,2009,4.0,0.6465610861778259
+tt10192308,"[Crime, Mystery, Sci-Fi]",5,Desire Game,10,2019,7.0,1.4350626468658447
+tt8255490,[Comedy],5,Christmas Survival,513,2018,3.0,0.3539038896560669
+tt5463162,"[Action, Adventure, Comedy]",8,Deadpool 2,465793,2018,2.0,0.9208711385726929
+tt5886046,"[Action, Adventure, Horror]",6,Escape Room,79997,2019,2.0,1.058586597442627
+tt0359836,[Adventure],6,Pilgrim's Progress,232,1978,2.0,0.9240269660949707
+tt0376717,"[Comedy, Crime]",3,Gold Diggers,2357,2003,3.0,0.9854493141174316
+tt9356952,"[Comedy, Crime, Drama]",6,The Death of Dick Long,3623,2019,7.0,0.9726954698562622
+tt4169146,"[Comedy, Drama]",7,Give Me Liberty,1481,2019,1.0,0.884826123714447
+tt4329810,[Documentary],7,QT8: The First Eight,2419,2019,5.0,0.38279926776885986
+tt0242146,[Documentary],7,Wolfman Chronicles: A Cinematic Scrapbook,13,1991,5.0,0.26667556166648865
+tt6854966,[Animation],6,Little Heroes,11,2017,3.0,1.0189207792282104
+tt0475390,"[Comedy, Drama, Music]",6,The Wedding Weekend,618,2006,1.0,0.8349406719207764
+tt1289401,"[Action, Comedy, Fantasy]",6,Ghostbusters,201241,2016,3.0,1.0463738441467285
+tt2609758,"[Comedy, Drama, Romance]",5,Tyler Perry's A Madea Christmas,5753,2013,6.0,0.6236584782600403
+tt4765284,"[Comedy, Music]",6,Pitch Perfect 3,54681,2017,3.0,0.40344828367233276
+tt0246592,"[Comedy, Drama, Romance]",7,The Dummy,6407,2002,6.0,0.6398898959159851
+tt1745718,[Documentary],9,Holbrook/Twain: An American Odyssey,24,2014,5.0,0.16740180552005768
+tt1883236,[Drama],6,Heartlines,19,2012,1.0,0.3894323706626892
+tt2170369,"[Action, Adventure, Comedy]",5,Dudes & Dragons,933,2015,2.0,0.9162804484367371
+tt10783168,[Romance],6,The Baby Proposal,36,2019,6.0,1.1535037755966187
+tt5013056,"[Action, Drama, History]",8,Dunkirk,539139,2017,1.0,1.024794101715088
+tt3526286,"[Crime, Drama, Horror]",3,#Horror,3376,2015,7.0,1.1442614793777466
+tt3891218,"[Biography, Documentary, History]",7,Colliding Dreams,94,2015,5.0,0.7867283225059509
+tt4263482,"[Drama, Horror, Mystery]",7,The Witch,192165,2015,0.0,0.9964259266853333
+tt4341532,"[Mystery, Sci-Fi, Thriller]",5,The Phoenix Incident,1483,2015,0.0,1.1663570404052734
+tt0060124,[Western],6,Man from Nowhere,484,1966,3.0,1.0520615577697754
+tt0083031,"[Horror, Romance]",3,Satan's Mistress,387,1982,4.0,1.1440843343734741
+tt0087332,"[Action, Comedy, Fantasy]",8,Ghostbusters,349555,1984,3.0,1.127070426940918
+tt0090312,"[Biography, Documentary, History]",7,What Happened to Kerouac?,282,1986,5.0,0.22429415583610535
+tt0097958,[Comedy],8,National Lampoon's Christmas Vacation,148841,1989,3.0,0.5654313564300537
+tt0108551,"[Biography, Drama, Music]",7,What's Love Got to Do with It,16732,1993,1.0,0.37840819358825684
+tt6857250,"[Action, Adventure, Animation]",6,Fantastica: A Boonie Bears Adventure,91,2017,2.0,0.5601509809494019
+tt0469021,"[Action, Comedy, Crime]",7,Alan Partridge,29424,2013,7.0,1.3218235969543457
+tt8096832,"[Adventure, Comedy, Drama]",6,Lady and the Tramp,14432,2019,1.0,1.2787296772003174
+tt6101602,"[Drama, Mystery, Thriller]",6,Madeline's Madeline,3346,2018,8.0,1.201705813407898
+tt3198454,"[Adventure, Animation, Comedy]",5,The Stone Boy,67,2015,3.0,0.9509875178337097
+tt0315205,"[Crime, Documentary, Drama]",8,Area K,12,2002,7.0,1.1579647064208984
+tt3682448,"[Drama, History, Thriller]",8,Bridge of Spies,282966,2015,8.0,0.9126476645469666
+tt7298400,"[Crime, Drama, Romance]",7,Ash Is Purest White,7369,2018,6.0,1.0935710668563843
+tt7400998,"[Drama, Sci-Fi]",5,LX 2048,613,2020,1.0,0.2732059061527252
+tt7985692,[Drama],6,After the Wedding,5342,2019,1.0,0.29454976320266724
+tt8045906,[Drama],7,Words on Bathroom Walls,403,2020,1.0,0.273179292678833
+tt1077258,"[Action, Adventure, Comedy]",7,Planet Terror,198291,2007,2.0,0.8899387717247009
+tt11033952,[Documentary],8,Square One: Michael Jackson,1364,2019,5.0,0.49030768871307373
+tt2140507,"[Biography, Drama, History]",6,The Current War: Director's Cut,17854,2017,1.0,0.28134578466415405
+tt2224383,"[Action, Horror, Sci-Fi]",4,Ombis: Alien Invasion,201,2013,4.0,1.009511947631836
+tt5884052,"[Action, Adventure, Comedy]",7,Pokémon Detective Pikachu,132458,2019,2.0,0.8966142535209656
+tt0948470,"[Action, Adventure, Sci-Fi]",7,The Amazing Spider-Man,552411,2012,2.0,0.3611106276512146
+tt0110357,"[Adventure, Animation, Drama]",8,The Lion King,924282,1994,1.0,1.0579127073287964
+tt0115723,"[Drama, Thriller]",4,Body of Influence 2,141,1996,8.0,0.7220324277877808
+tt0119256,"[Crime, Drama]",7,Hard Eight,41039,1996,7.0,0.5740970969200134
+tt0141574,[Adventure],5,The Face of Alexandre Dumas: The Man in the Iron Mask,213,1998,2.0,0.9048974514007568
+tt1872773,[Documentary],6,America Destroyed by Design,47,1998,5.0,0.2641341984272003
+tt1876409,[Thriller],7,Oblivion,9,2011,8.0,0.5933396816253662
+tt1999067,"[Horror, Thriller]",4,15: Inside the Mind of a Serial Killer,49,2011,4.0,0.5925018787384033
+tt0005809,[Drama],6,The Governor,301,1915,1.0,0.9312422871589661
+tt0064494,"[Drama, Horror]",5,Eugenie,1426,1970,1.0,1.0605478286743164
+tt0103253,[Drama],6,Whore,3433,1991,1.0,0.31710362434387207
+tt0108070,[Drama],4,Secret Games 2: The Escort,188,1993,1.0,0.3924766778945923
+tt0383648,"[Comedy, Drama, Music]",5,Dream,499,2005,1.0,0.8670184016227722
+tt2069955,"[Crime, Drama, Mystery]",4,Border Run,1696,2012,7.0,1.0649405717849731
+tt2201532,"[Comedy, Drama, Thriller]",6,Guns for Hire,2551,2015,8.0,1.2281651496887207
+tt2386490,"[Action, Adventure, Animation]",8,How to Train Your Dragon: The Hidden World,99269,2019,2.0,0.43225938081741333
+tt3699702,"[Comedy, Romance]",5,The Divorce Party,529,2019,3.0,0.8046289682388306
+tt4196576,"[Comedy, Horror]",6,Chainsaw Maidens from Hell,33,2016,3.0,0.9934020638465881
+tt3261290,[Documentary],7,Radioactive Wolves,58,2011,5.0,0.21980440616607666
+tt3263718,"[Comedy, Drama, Romance]",6,Across the Sea,771,2014,6.0,0.6375278234481812
+tt8748236,[Thriller],4,Killer Cove,349,2019,8.0,0.5208372473716736
+tt0009968,"[Drama, Romance]",7,Broken Blossoms,9313,1919,6.0,0.8986347913742065
+tt0030221,"[Comedy, Musical, Romance]",4,Stardust,29,1938,3.0,1.1054335832595825
+tt0076759,"[Action, Adventure, Fantasy]",9,Star Wars: Episode IV - A New Hope,1211331,1977,2.0,0.5743069648742676
+tt6421118,[Drama],4,Alright Now,453,2018,1.0,0.37612080574035645
+tt0816692,"[Adventure, Drama, Sci-Fi]",9,Interstellar,1469113,2014,1.0,1.3802129030227661
+tt1422800,"[Mystery, Thriller]",5,Beneath the Dark,1813,2010,8.0,1.0097575187683105
+tt1440379,[Drama],5,Virginia,1955,2010,1.0,0.2237655073404312
+tt1610525,"[Biography, Drama, Sport]",6,Chuck,5566,2016,1.0,0.27925631403923035
+tt5302552,[Drama],8,The Hunger,221,1984,1.0,0.3233502209186554
+tt5841964,"[Comedy, Drama]",5,Monkey King,139,2016,1.0,0.8701608777046204
+tt0111161,[Drama],9,The Shawshank Redemption,2296829,1994,1.0,0.5644581913948059
+tt0145529,[Sci-Fi],2,Time Chasers,3049,1994,3.0,1.0117586851119995
+tt1130965,"[Biography, Drama]",7,The Athlete,226,2009,1.0,0.24914021790027618
+tt1690967,"[Biography, Drama]",6,Come Sunday,1932,2018,1.0,0.286485880613327
+tt1799557,"[Comedy, Crime, Drama]",7,Pretty Bad Actress,38,2012,7.0,1.0249325037002563
+tt1872181,"[Action, Adventure, Sci-Fi]",7,The Amazing Spider-Man 2,411411,2014,2.0,0.3639487326145172
+tt1927172,[Thriller],5,"Y/N: You Lie, You Die",738,2012,8.0,0.4780717194080353
+tt2412746,[Action],5,Revelation Road: The Beginning of the End,1745,2013,2.0,0.8958289623260498
+tt2544472,"[Horror, Thriller]",4,Haunting of Cellblock 11,717,2014,4.0,0.5560963749885559
+tt5093026,"[Adventure, Biography, Crime]",7,Papillon,50338,2017,2.0,1.2776107788085938
+tt9318280,[Drama],7,Driveways,2027,2019,1.0,0.3699767291545868
+tt3501632,"[Action, Adventure, Comedy]",8,Thor: Ragnarok,571331,2017,2.0,0.920093297958374
+tt0044828,"[Action, Adventure, Western]",6,Last of the Comanches,646,1953,2.0,0.6360638737678528
+tt0071721,"[Crime, Drama, Thriller]",5,The Klansman,1304,1974,7.0,1.0275089740753174
+tt10207850,[Thriller],5,Killer in Law,227,2018,8.0,0.5037034749984741
+tt6143998,[Drama],7,Comeback,124,2016,1.0,0.2605093717575073
+tt6149936,[Horror],4,The Lullaby,1042,2017,4.0,0.5047158598899841
+tt6705860,[Drama],7,Diane,1187,2018,1.0,0.3634505271911621
+tt7054636,[Comedy],4,A Madea Family Funeral,3673,2019,3.0,0.3503226637840271
+tt1404677,[Western],4,The Gunslingers,82,2009,3.0,1.0328174829483032
+tt1517489,"[Action, Adventure, Comedy]",4,Spy Kids 4-D: All the Time in the World,22355,2011,2.0,0.9000011682510376
+tt1637706,"[Comedy, Drama]",6,Our Idiot Brother,83146,2011,1.0,0.8503105044364929
+tt8151874,[Drama],7,Honey Boy,24933,2019,1.0,0.3656029999256134
+tt8155288,"[Comedy, Horror, Mystery]",6,Happy Death Day 2U,54307,2019,0.0,1.2440245151519775
+tt8323104,"[Comedy, Crime, Drama]",6,Nancy Drew and the Hidden Staircase,3496,2019,7.0,0.9727256298065186
+tt5580390,"[Adventure, Drama, Fantasy]",7,The Shape of Water,361127,2017,1.0,1.0156261920928955
+tt2819446,[Thriller],5,False Colors,150,2020,8.0,0.5026368498802185
+tt2933544,"[Comedy, Drama]",6,5 Flights Up,9263,2014,1.0,0.8517313003540039
+tt0317705,"[Action, Adventure, Animation]",8,The Incredibles,646678,2004,2.0,0.4189091622829437
+tt6320628,"[Action, Adventure, Sci-Fi]",8,Spider-Man: Far from Home,310345,2019,2.0,0.4322417080402374
+tt0468569,"[Action, Crime, Drama]",9,The Dark Knight,2261286,2008,7.0,0.7897562384605408
+tt0790623,"[Comedy, Drama]",6,Meet Bill,19354,2007,1.0,0.8499777317047119
+tt0808357,"[Drama, History, Romance]",8,"Lust, Caution",36864,2007,6.0,0.6447808742523193
+tt5300754,"[Comedy, Romance]",5,Fairytale of New York,67,2017,3.0,0.8524568676948547
+tt6107548,"[Comedy, Drama]",6,Late Night,26961,2019,1.0,0.856246829032898
+tt6112220,"[Comedy, Crime, Drama]",7,The Butterfly Effect,104,2010,7.0,0.9802447557449341
+tt4706780,"[Action, Drama, History]",6,Red Dog,46,2017,1.0,0.9990562796592712
+tt4717402,"[Action, Animation, Comedy]",7,MFKZ,3280,2017,3.0,1.0761709213256836
+tt4912910,"[Action, Adventure, Thriller]",8,Mission: Impossible - Fallout,284183,2018,2.0,1.0622260570526123
+tt9031484,[Documentary],8,House of Cardin,85,2019,5.0,0.2157614827156067
+tt3713166,"[Horror, Mystery, Thriller]",6,Unfriended,67493,2014,0.0,1.0967551469802856
+tt4019560,"[Crime, Drama, Mystery]",4,Exposed,13545,2016,7.0,1.0680049657821655
+tt1208711,"[Comedy, Crime]",5,The Misadventures of the Dunderheads,296,2012,3.0,0.9970167279243469
+tt7477788,"[Drama, History]",6,One Man Dies a Million Times,114,2019,1.0,0.2995039224624634
+tt8459444,"[Drama, Thriller]",4,Kill Thy Neighbor,237,2018,8.0,0.7034099698066711
+tt0250310,"[Comedy, Crime]",5,Corky Romano,12422,2001,3.0,0.9826326370239258
+tt2990982,[Documentary],8,The Divine Matrix,5,2008,5.0,0.35719034075737
+tt1690542,"[Crime, Drama, Thriller]",5,Final Sale,240,2011,7.0,1.0305657386779785
+tt1697064,"[Crime, Drama]",6,Deadly Code,7332,2013,7.0,0.5411390066146851
+tt0054724,[Horror],4,I Eat Your Skin,1227,1971,4.0,0.6142688989639282
+tt0078196,"[Crime, Drama]",7,Made in Iran,55,1978,7.0,0.6884981989860535
+tt0087944,"[Comedy, Drama, Romance]",5,The Fantasies of Miss Jones,131,1986,6.0,0.7037802934646606
+tt0095243,"[Biography, Drama]",7,Gorillas in the Mist: The Adventure of Dian Fossey,23673,1988,1.0,0.4001884162425995
+tt0102986,[Family],7,The Great Day on the Beach,559,1991,3.0,0.9897497892379761
+tt1338544,[Comedy],7,Welcome to Los Feliz,20,2008,3.0,0.39648061990737915
+tt0403537,"[Action, Crime, Drama]",5,State Property: Blood on the Streets,1349,2005,7.0,0.6620546579360962
+tt8785322,[Drama],6,Manje Bistre 2,122,2019,1.0,0.2999787926673889
+tt4258292,"[Action, Thriller]",7,Yennai Arindhaal,7842,2015,8.0,0.9793542623519897
+tt7990992,[Drama],6,The Plagiarists,220,2019,1.0,0.2999732196331024
+tt2183034,"[Adventure, Family, Sci-Fi]",6,Earth to Echo,18200,2014,2.0,0.8261385560035706
+tt2278870,"[Adventure, Drama, Mystery]",4,Beyond the Edge,902,2016,1.0,1.3663034439086914
+tt6494536,[Drama],7,Mantis Nest,11,2018,1.0,0.3676709234714508
+tt4975920,"[Biography, Drama, Western]",6,The Kid,6390,2019,1.0,0.2881641387939453
+tt1137470,"[Comedy, Romance]",4,Accidental Love,7677,2015,3.0,0.796367883682251
+tt10228168,"[Action, Comedy, Crime]",7,First Love,4411,2019,7.0,1.3259108066558838
+tt0114234,"[Comedy, Drama, Musical]",8,Rangeela,9064,1995,1.0,0.9287316203117371
+tt0117571,"[Horror, Mystery]",7,Scream,281730,1996,0.0,1.016044020652771
+tt2645000,"[Biography, Documentary]",7,A Life in Dirty Movies,468,2013,5.0,0.10773159563541412
+tt3448124,[Horror],3,Dollface,349,2014,4.0,0.5203967094421387
+tt1699755,"[Comedy, Romance]",5,Peeples,4620,2013,3.0,0.8003209829330444
+tt0070047,[Horror],8,The Exorcist,356848,1973,4.0,0.8173916935920715
+tt0070628,"[Drama, Fantasy, Horror]",8,The Hourglass Sanatorium,3354,1973,1.0,1.2120862007141113
+tt0088070,[Comedy],7,Secerna vodica,609,1983,3.0,0.3923949897289276
+tt1532538,"[Action, Crime, Thriller]",5,Line of Duty,777,2013,8.0,1.2850756645202637
+tt1546036,"[Animation, Comedy, Mystery]",6,The Drawn Together Movie!,3948,2010,3.0,1.0651074647903442
+tt1567353,"[Comedy, Horror, Thriller]",5,Kill Everyone,18,2009,4.0,1.1474573612213135
+tt1650062,"[Action, Adventure, Sci-Fi]",7,Super 8,335752,2011,2.0,0.3601420819759369
+tt8236336,"[Biography, Crime, Drama]",7,The Report,30548,2019,7.0,0.5803922414779663
+tt8347270,[Documentary],9,Born to Be,27,2019,5.0,0.19197683036327362
+tt2112096,"[Comedy, Crime]",5,Absolutely Fabulous: The Movie,11685,2016,3.0,0.9882658123970032
+tt2287677,"[Crime, Horror, Mystery]",5,Massacre County,245,2015,0.0,1.307063341140747
+tt2368619,"[Action, Crime, Drama]",6,The Take,36909,2016,7.0,0.6749756932258606
+tt2370228,"[Horror, Thriller]",4,All I Need,1039,2016,4.0,0.5678576827049255
+tt2473514,"[Documentary, Drama, Thriller]",9,On the Art of War,8,2012,8.0,1.2364497184753418
+tt2514298,"[Biography, Documentary, Drama]",7,Brave Miss World,519,2013,5.0,0.9385718703269958
+tt0455299,[Comedy],5,29th & Gay,295,2005,3.0,0.3714817762374878
+tt1139282,"[Crime, Drama, Mystery]",6,Stolen,5320,2009,7.0,1.0587844848632812
+tt0120338,"[Drama, Romance]",8,Titanic,1029053,1997,6.0,0.5150073170661926
+tt0139645,[Comedy],4,Life in the Fast Lane,254,1998,3.0,0.40696126222610474
+tt0280030,"[Adventure, Animation, Family]",6,Peter Pan 2: Return to Never Land,18188,2002,2.0,0.8251460790634155
+tt3036600,[Thriller],4,Panic 5 Bravo,231,2013,8.0,0.5187652111053467
+tt1659276,[Drama],6,The Neighbor,25,2010,1.0,0.3831777572631836
+tt1815874,[Drama],6,Artificial Paradises,152,2011,1.0,0.28266698122024536
+tt1851974,"[Documentary, History]",7,Invisible Empire,286,2010,5.0,0.10311061888933182
+tt1905041,"[Action, Adventure, Thriller]",7,Fast & Furious 6,364673,2013,2.0,1.0369775295257568
+tt0058725,"[Comedy, Musical]",6,Viva Las Vegas,6634,1964,3.0,0.5466573238372803
+tt0100930,[Comedy],4,Who Shot Pat?,347,1989,3.0,0.4293491840362549
+tt1411245,[Documentary],9,Tanzania: A Journey Within,20,2011,5.0,0.16033442318439484
+tt1582268,[Comedy],4,The Love Guide,296,2011,3.0,0.40719377994537354
+tt1587685,"[Biography, Drama, History]",4,Decline of an Empire,368,2014,1.0,0.3668883740901947
+tt0306734,"[Comedy, Drama, Romance]",5,The Divorce,10915,2003,6.0,0.6123989224433899
+tt0437086,"[Action, Adventure, Sci-Fi]",7,Alita: Battle Angel,220860,2019,2.0,0.3752831220626831
+tt1125351,"[Drama, Horror, Mystery]",4,Haunted Traxxs,172,2009,0.0,1.0343903303146362
+tt3759568,[Documentary],4,Chasing the Muse,80,2014,5.0,0.31962305307388306
+tt4460792,"[Crime, Drama]",7,Calm with Horses,1484,2019,7.0,0.5805310606956482
+tt4500922,"[Action, Adventure, Sci-Fi]",6,Maze Runner: The Death Cure,108623,2018,2.0,0.34428122639656067
+tt1772292,[Thriller],6,Hostage,468,2012,8.0,0.4854760766029358
+tt1825683,"[Action, Adventure, Sci-Fi]",7,Black Panther,611490,2018,2.0,0.3725723624229431
+tt1975249,"[Action, Crime, Drama]",6,6 Bullets,13860,2012,7.0,0.6701706051826477
+tt1996155,"[Biography, Documentary, Drama]",7,400 Miles to Freedom,5,2012,5.0,0.9976524710655212
+tt8351452,[Thriller],5,Dating to Kill,235,2019,8.0,0.5012491941452026
+tt8485772,"[Comedy, Horror]",5,Porno,885,2019,3.0,0.9638882279396057
+tt8506500,[Drama],3,Danny's Game,110,2020,1.0,0.42676451802253723
+tt3115906,[Drama],7,Girl Lost,4032,2016,1.0,0.3586278557777405
+tt0042530,"[Crime, Drama, Film-Noir]",8,Gun Crazy,11411,1950,7.0,0.8132606744766235
+tt0051792,"[Drama, Music]",8,The Music Room,5028,1958,1.0,0.6536652445793152
+tt0091635,"[Drama, Romance]",6,9½ Weeks,36893,1986,6.0,0.44314044713974
+tt0104719,"[Drama, Fantasy]",5,Erotic Ghost Story III,168,1992,1.0,0.3556903600692749
+tt0164155,[Action],8,No Response from Car 33,7,1955,2.0,1.161696195602417
+tt1388371,"[Action, Comedy, Sci-Fi]",5,An American Hippie in Israel,557,1972,3.0,1.0672225952148438
+tt1514044,"[Action, Fantasy, Horror]",3,Aleta: Vampire Mistress,120,2012,4.0,1.0174466371536255
+tt1288367,"[Comedy, Music, Romance]",6,We Will Rock You,1014,2011,3.0,0.8701539039611816
+tt0357848,"[Horror, Thriller]",3,The Straun House,308,2005,4.0,0.5818526148796082
+tt10887902,"[Comedy, Drama, Romance]",6,I Used to Go Here,1130,2020,6.0,0.6438087821006775
+tt1091228,"[Comedy, Romance]",6,Alpha Males Experiment,234,2009,3.0,0.8015159964561462
+tt5017008,"[Biography, Drama, History]",6,My Grandmother Fanny Kaplan,107,2016,1.0,0.28936710953712463
+tt1721494,"[Crime, Drama]",6,"Few Options, All Bad",462,2011,7.0,0.587486982345581
+tt8550208,"[Action, Drama, Thriller]",6,Romeo Akbar Walter,4740,2019,8.0,1.055902361869812
+tt3124674,[Crime],8,Comissarrio Guido Brunetti Mysteries: Vendetta,20,2007,7.0,1.0020540952682495
+tt0071707,[Drama],7,"Reason, Debate and a Story",355,1974,1.0,0.41051867604255676
+tt0114462,"[Comedy, Family, Fantasy]",4,The Skateboard Kid 2,322,1994,3.0,0.414468377828598
+tt7141148,"[Comedy, Drama, Romance]",4,Porthole,55,2018,6.0,0.7884535789489746
+tt7218564,"[Adventure, Family]",5,Destined to Ride,166,2018,2.0,0.9071117043495178
+tt7349662,"[Biography, Crime, Drama]",8,BlacKkKlansman,212642,2018,7.0,0.6278579235076904
+tt5503686,"[Comedy, Crime, Drama]",6,Hustlers,79217,2019,7.0,0.9727001190185547
+tt0390179,[Drama],6,The Land Has Eyes,113,2004,1.0,0.2847374677658081
+tt0413302,"[Horror, Thriller]",5,Spirits,207,2004,4.0,0.5586428046226501
+tt2102496,"[Horror, Sci-Fi]",4,Cabin Fever 3: Patient Zero,6969,2014,4.0,0.5004046559333801
+tt2258285,[Drama],6,Two Men in Town,1977,2014,1.0,0.2769101560115814
+tt2259418,"[Adventure, Documentary, History]",7,Return to the USS Atlanta,39,2012,5.0,1.0115023851394653
+tt2262952,[Comedy],5,Lightning Strike,575,2012,3.0,0.9191682934761047
+tt2385952,"[Crime, Drama, Romance]",8,Mahogany Sunrise,509,2014,6.0,1.0720301866531372
+tt2413338,"[Horror, Sci-Fi, Thriller]",4,Abducted,479,2013,4.0,0.9556493759155273
+tt2452244,"[Comedy, Fantasy, Romance]",6,Isn't It Romantic,60927,2019,3.0,0.8779340386390686
+tt4463894,"[Action, Comedy, Crime]",6,Shaft,42864,2019,7.0,1.313475489616394
+tt4587656,"[Adventure, Animation, Comedy]",6,The Star,6228,2017,3.0,0.9302720427513123
+tt4743226,"[Action, Adventure, Drama]",3,Air Strike,3478,2018,2.0,1.0400123596191406
+tt5208252,"[Biography, Drama, History]",7,Operation Finale,30547,2018,1.0,0.3680889308452606
+tt1681370,"[Action, Romance, Thriller]",6,The Algerian,196,2014,8.0,1.2945135831832886
+tt1874416,[Drama],6,Aquí y Allá: Here and There,212,2012,1.0,0.28414592146873474
+tt1878917,"[Drama, Family]",6,The Pledge,167,2011,1.0,0.282502681016922
+tt1964630,[Horror],4,The Evil Inside,378,2011,4.0,0.5018339157104492
+tt8484012,"[Comedy, Drama]",6,Sword of Trust,2116,2019,1.0,0.8560766577720642
+tt9178402,"[Drama, Horror, Western]",5,The Pale Door,1620,2020,1.0,1.1055479049682617
+tt0947810,"[Action, Drama, Thriller]",7,Green Zone,128311,2010,8.0,1.0876001119613647
+tt0024852,"[Comedy, Family, Fantasy]",7,March of the Wooden Soldiers,5925,1934,3.0,0.8139287233352661
+tt0072868,"[Action, Fantasy, Horror]",5,Devil Woman,89,1973,4.0,1.0721285343170166
+tt0080772,"[Action, Adventure, Animation]",7,Galaxy Express 999,1848,1979,2.0,0.448623925447464
+tt0084338,[Drama],7,The Mission,169,1983,1.0,0.3459587097167969
+tt0099817,"[Action, Crime, Horror]",6,Dark Angel,10209,1990,7.0,1.4306179285049438
+tt7043012,"[Comedy, Horror, Mystery]",6,Velvet Buzzsaw,52433,2019,0.0,1.2437760829925537
+tt7313348,"[Drama, Thriller]",5,Them That Follow,2604,2019,8.0,0.6871845126152039
+tt7343762,"[Adventure, Comedy]",7,Good Boys,57502,2019,3.0,0.9649093747138977
+tt1488606,"[Action, Adventure, Crime]",6,Triple Frontier,103572,2019,2.0,1.0224254131317139
+tt5855772,"[Drama, Mystery]",6,Sunset,3525,2018,1.0,0.9754152297973633
+tt5969180,"[Adventure, Comedy]",6,I Hate Kids,1660,2019,3.0,0.9329090714454651
+tt0333814,[Documentary],6,Local Angel,15,2002,5.0,0.253927618265152
+tt0137201,"[Adventure, Animation, Family]",6,Rudolph the Red-Nosed Reindeer,2451,1998,2.0,0.8304954767227173
+tt1759660,[Drama],6,Trouble in the Heights,89,2011,1.0,0.38371869921684265
+tt1859476,"[Comedy, Drama]",5,We Are Not Animals,537,2013,1.0,0.8446283340454102
+tt1885325,"[Fantasy, Thriller]",4,Beyond the Darkness,195,2018,8.0,0.5209532976150513
+tt1985949,"[Action, Adventure, Animation]",6,The Angry Birds Movie,78935,2016,2.0,0.3385014832019806
+tt2257816,"[Action, Drama, Family]",5,Midnight Stallion,317,2013,1.0,0.9768292903900146
+tt2412748,[Documentary],9,Saving Mes Aynak,1006,2014,5.0,0.5931307673454285
+tt2420124,"[Drama, Fantasy]",6,Wendy,1612,2020,1.0,0.2931957244873047
+tt5052448,"[Horror, Mystery, Thriller]",8,Get Out,478225,2017,0.0,0.6121606230735779
+tt5215088,"[Drama, Romance, Sci-Fi]",5,A.I. Rising,7160,2018,6.0,0.5933167934417725
+tt9815714,[Action],5,The Hard Way,2447,2019,2.0,0.8991449475288391
+tt3633118,"[Adventure, Animation, Fantasy]",4,Guardians of Oz,216,2015,2.0,0.927734911441803
+tt3689590,"[Crime, Mystery, Thriller]",4,Blood in the Water,664,2016,8.0,1.3816606998443604
+tt4116284,"[Action, Animation, Comedy]",7,The Lego Batman Movie,129107,2017,3.0,1.0761363506317139
+tt0068646,"[Crime, Drama]",9,The Godfather,1585284,1972,7.0,0.7535225749015808
+tt6494344,"[Adventure, Animation, Comedy]",5,A Wizard's Tale,611,2018,3.0,0.9096548557281494
+tt7019942,"[Action, Comedy, Crime]",8,Super Deluxe,8638,2019,7.0,1.347996711730957
+tt7250056,"[Comedy, Drama, Romance]",6,Non-Fiction,4068,2018,6.0,0.6385221481323242
+tt7297960,[Drama],6,Shuttle Life,239,2017,1.0,0.2935045659542084
+tt7374952,"[Action, Crime, Drama]",5,El Chicano,1042,2018,7.0,0.6724868416786194
+tt1337047,[Documentary],7,Angels in Exile,39,2016,5.0,0.2333468496799469
+tt0312859,"[Action, Drama, War]",8,A Peck on the Cheek,7257,2002,1.0,1.0230799913406372
+tt8949056,"[Comedy, Drama]",6,"Yes, God, Yes",4183,2019,1.0,0.8562665581703186
+tt11649614,"[Action, Comedy]",6,Hitman: Agent Jun,899,2020,3.0,1.0291544198989868
+tt1757746,"[Drama, Sci-Fi]",6,Extracted,11390,2012,1.0,0.27270978689193726
+tt1823231,"[Horror, Thriller]",4,The Inflicted,152,2012,4.0,0.566745400428772
+tt6472976,"[Drama, Romance]",7,Five Feet Apart,39918,2019,6.0,0.4891028106212616
+tt8084572,[Thriller],5,Deadly Patient,166,2018,8.0,0.5007428526878357
+tt5070062,"[Drama, Music, Romance]",7,I'll Find You,57,2019,6.0,0.6973479986190796
+tt0040369,"[Action, Adventure, Western]",8,Fort Apache,16186,1948,2.0,0.702691376209259
+tt2066051,"[Biography, Drama, Music]",7,Rocketman,127444,2019,1.0,0.36391761898994446
+tt2246526,"[Action, Biography, Documentary]",7,Born to Fly: Elizabeth Streb vs. Gravity,63,2014,5.0,1.0112296342849731
+tt4028134,"[Comedy, Horror]",4,Lake Fear,1833,2014,3.0,0.9557506442070007
+tt4363990,"[Drama, Horror, Thriller]",3,The Shadow Man,320,2017,0.0,1.2451351881027222
+tt7634968,"[Comedy, Fantasy, Romance]",5,What Men Want,21108,2019,3.0,0.857492208480835
+tt7705110,"[Comedy, Family, Romance]",8,The Dreaming Man,15,2017,3.0,0.8222611546516418
+tt2766104,"[Adventure, Animation, Family]",5,Ploey,863,2018,2.0,0.8666625022888184
+tt2926810,"[Comedy, Horror]",5,ABCs of Death 2,7867,2014,3.0,0.9607876539230347
+tt0253474,"[Biography, Drama, Music]",8,The Pianist,714107,2002,1.0,0.44857078790664673
+tt0068389,"[Documentary, Music]",6,The Rolling Stones: Cocksucker Blues,758,1972,5.0,0.3475188910961151
+tt0089670,"[Adventure, Comedy]",6,National Lampoon's European Vacation,57206,1985,3.0,0.9415737390518188
+tt9352926,[Drama],6,The Sound of Silence,961,2019,1.0,0.24389831721782684
+tt2106476,[Drama],8,The Hunt,272773,2012,1.0,0.4475019872188568
+tt2182211,"[Comedy, Drama]",6,Tomorrow Comes Today,24,2013,1.0,0.896308422088623
+tt2262275,"[Comedy, Drama, Music]",8,The One Who Loves You,57,2013,1.0,0.8708312511444092
+tt2316817,[Comedy],6,Dirty Weekend,108,2013,3.0,0.3549586534500122
+tt0171319,[Sci-Fi],4,Femalien 2,534,1998,3.0,0.9905675649642944
+tt0188509,[Drama],5,Inside Club Wild Side,189,1998,1.0,0.3349509835243225
+tt3692082,[Horror],6,Little Horror Movie,2726,2018,4.0,0.5970975160598755
+tt1355546,[Action],7,Ayan,7895,2009,2.0,0.900549590587616
+tt1385543,"[Horror, Thriller]",5,Dark House,2395,2014,4.0,0.5978642702102661
+tt1517451,"[Drama, Music, Romance]",8,A Star Is Born,323374,2018,6.0,0.6640923023223877
+tt7967412,"[Drama, Thriller]",7,Eye for an Eye,5108,2019,8.0,0.7653359770774841
+tt8488126,[Documentary],7,The Inventor: Out for Blood in Silicon Valley,7819,2019,5.0,0.38201120495796204
+tt1308754,[Thriller],4,Forbidden Attraction,386,2010,8.0,0.5220887660980225
+tt5321214,[Horror],3,The Legend of Jack Logan,27,2016,4.0,0.5491533875465393
+tt5848416,"[Biography, Drama]",6,Walk. Ride. Rodeo.,1800,2019,1.0,0.2902017831802368
+tt5936578,"[Drama, Music, Musical]",6,Saints Rest,99,2018,1.0,0.610770583152771
+tt5164214,"[Action, Comedy, Crime]",7,Ocean's 8,179829,2018,7.0,1.3252102136611938
+tt0362209,"[Drama, Romance, Sci-Fi]",6,Lost in New Mexico: The Strange Tale of Susan Hero,20,2007,6.0,0.6977388858795166
+tt0407887,"[Crime, Drama, Thriller]",8,The Departed,1168096,2006,7.0,1.031989574432373
+tt9010738,"[Adventure, Drama, Mystery]",6,Miss Fisher & the Crypt of Tears,2458,2020,1.0,1.3625297546386719
+tt0109836,"[Drama, Horror, Romance]",6,Mary Shelley's Frankenstein,50758,1994,6.0,1.152951717376709
+tt0237199,"[Drama, Mystery, Sci-Fi]",6,Echos of Enlightenment,84,2001,1.0,1.1133930683135986
+tt0247568,"[Documentary, History]",8,Nazi Concentration and Prison Camps,1162,1945,5.0,0.7614923119544983
+tt2088950,"[Drama, Thriller]",6,The Show,4248,2017,8.0,0.7173120975494385
+tt2091288,"[Drama, Sci-Fi, Thriller]",4,Black Web,175,2012,8.0,0.8056932091712952
+tt2139881,"[Comedy, Romance]",7,Long Shot,90181,2019,3.0,0.8654728531837463
+tt1047449,"[Drama, Horror]",4,Camp Hell,2077,2010,1.0,0.9972481727600098
+tt3882082,"[Horror, Mystery, Thriller]",6,The Boy,78437,2016,0.0,0.5247308611869812
+tt0008305,[Drama],6,Les Misérables,18,1917,1.0,0.9493042230606079
+tt6823368,"[Drama, Sci-Fi, Thriller]",7,Glass,200645,2019,8.0,0.8611392974853516
+tt7297956,[Drama],6,Dark is the Night,37,2017,1.0,0.3922213315963745
+tt7698468,"[Biography, Drama, Thriller]",6,A Call to Spy,556,2019,8.0,0.6720970869064331
+tt1621444,"[Biography, Documentary, History]",8,Bill Cunningham: New York,5139,2010,5.0,0.4782453775405884
+tt5971892,[Drama],6,Unwavering Faith,18,2017,1.0,0.3993973433971405
+tt2713778,[Documentary],7,Cathedrals of Culture,223,2014,5.0,0.1108522117137909
+tt2822742,"[Drama, Romance]",6,3 Hearts,2238,2014,6.0,0.44125959277153015
+tt2908090,[Horror],3,ZK: Elephant's Graveyard,420,2015,4.0,0.5214053988456726
+tt3148502,"[Comedy, Drama, Romance]",7,Spectacle,22862,2015,6.0,0.6551562547683716
+tt3433632,"[Crime, Drama]",7,SK1,2072,2014,7.0,0.5723772644996643
+tt2102497,"[Drama, Family]",6,The Fix,47,2017,1.0,0.39222148060798645
+tt2106675,"[Comedy, Horror, Sci-Fi]",3,ThanksKilling 3,825,2012,3.0,1.0227885246276855
+tt2235695,"[Drama, Mystery, Romance]",6,Rebecca,5202,2020,6.0,1.1671782732009888
+tt2378145,"[Horror, Mystery, Thriller]",3,Nun,448,2017,0.0,0.6568084955215454
+tt0056665,"[Comedy, Drama, Romance]",7,Crazy Desire,366,1962,6.0,0.7414955496788025
+tt0061589,"[Documentary, Music]",8,Bob Dylan: Dont Look Back,8306,1967,5.0,0.6125304102897644
+tt0061988,[Documentary],6,Mondo Hollywood: Hollywood Laid Bare!,154,1967,5.0,0.40405574440956116
+tt0067803,"[Drama, Romance]",7,Summer of '42,7113,1971,6.0,0.5376930236816406
+tt1670916,"[Drama, Mystery]",6,The Box Cutter,57,2013,1.0,1.0089627504348755
+tt1699720,[Documentary],7,!Women Art Revolution,213,2010,5.0,0.09665194153785706
+tt1733522,"[Documentary, Drama]",6,Karla's Arrival,18,2011,5.0,0.9593438506126404
+tt1772271,[Comedy],6,"3, 2, 1... Frankie Go Boom",4717,2012,3.0,0.39250797033309937
+tt3549566,[Horror],3,American Poltergeist 3,243,2015,4.0,0.5213812589645386
+tt10055770,"[Crime, Drama, Thriller]",7,Vellai Pookal,1328,2019,7.0,1.0109870433807373
+tt10255374,[Thriller],4,Evil Intent,138,2019,8.0,0.5208624601364136
+tt6428150,"[Music, Romance]",7,High Strung Free Dance,1148,2018,6.0,1.0957664251327515
+tt6857112,"[Horror, Mystery, Thriller]",7,Us,214786,2019,0.0,0.5605383515357971
+tt0486576,"[Action, Adventure, Fantasy]",6,Fantastic 4: Rise of the Silver Surfer,248657,2007,2.0,0.3289555609226227
+tt1436562,"[Adventure, Animation, Comedy]",7,Rio,203590,2011,3.0,0.9573525786399841
+tt8006926,"[Documentary, Sport]",8,The Russian Five,844,2018,5.0,0.2361108660697937
+tt5270948,"[Drama, History, Thriller]",6,Chappaquiddick,11669,2017,8.0,0.8163676857948303
+tt5814534,"[Action, Adventure, Animation]",7,Spies in Disguise,30967,2019,2.0,0.37463489174842834
+tt4633694,"[Action, Adventure, Animation]",8,Spider-Man: Into the Spider-Verse,345270,2018,2.0,0.4298996925354004
+tt0439547,"[Biography, Drama]",7,Two Sons of Francisco,4840,2005,1.0,0.3525390625
+tt8752474,"[Action, Animation, Fantasy]",6,Justice League vs the Fatal Five,6840,2019,2.0,0.8959941267967224
+tt1950186,"[Action, Biography, Drama]",8,Ford v Ferrari,266797,2019,1.0,1.026798963546753
+tt1964618,"[Action, Drama, Romance]",5,Greencard Warriors,156,2013,6.0,1.0883198976516724
+tt6514010,"[Comedy, Crime, Drama]",7,Long Live Brij Mohan,2488,2017,7.0,0.9871665239334106
+tt0783681,[Documentary],7,Paper Dolls,165,2006,5.0,0.09372647106647491
+tt6063090,"[Drama, Sci-Fi, Thriller]",7,Light of My Life,9722,2019,8.0,0.8609021306037903
+tt6067752,"[Action, Crime, Drama]",8,Lucifer,6778,2019,7.0,0.7446399331092834
+tt0052572,[Drama],8,The World of Apu,11595,1959,1.0,0.6467564702033997
+tt0061655,"[Comedy, Horror]",7,The Fearless Vampire Killers,29146,1967,3.0,1.0679006576538086
+tt0063803,"[Drama, Romance]",7,Who's That Knocking at My Door,8195,1967,6.0,0.5557138323783875
+tt0083866,"[Family, Sci-Fi]",8,E.T. the Extra-Terrestrial,365483,1982,3.0,1.0931878089904785
+tt9558612,"[Biography, Drama]",3,PM Narendra Modi,5221,2019,1.0,0.30000779032707214
+tt2245990,"[Action, History]",6,Genghis: The Legend of the Ten,354,2012,2.0,0.9414498209953308
+tt2505818,"[Family, Music, Romance]",6,An Evergreen Christmas,349,2014,6.0,1.19381844997406
+tt4115932,"[Action, Adventure, Comedy]",5,Hollywood Adventures,554,2015,2.0,1.2273097038269043
+tt7339248,"[Action, Comedy, Crime]",7,The Art of Self-Defense,26027,2019,7.0,1.326067566871643
+tt7594568,"[Comedy, Drama, Family]",6,Your Mother Should Know,402,2018,1.0,0.8582274913787842
+tt1641401,"[Drama, Family]",6,Louder Than Words,1055,2013,1.0,0.27462294697761536
+tt2833580,"[Sci-Fi, Thriller]",3,The Girl,195,2016,8.0,0.5421051383018494
+tt3090882,"[Crime, Documentary, Drama]",7,"You Belong to Me: Sex, Race and Murder in the South",144,2014,7.0,1.1319254636764526
+tt3132422,[Comedy],3,Sex School,529,2015,3.0,0.40805402398109436
+tt3157640,"[Action, Adventure, Sci-Fi]",3,Bunker: Project 12,334,2016,2.0,0.5861830115318298
+tt0393449,"[Documentary, Music]",8,Malfunkshun: The Andrew Wood Story,119,2005,5.0,0.09792565554380417
+tt0413015,"[Comedy, Drama, Music]",7,Mrs. Henderson Presents,15019,2005,1.0,0.8786673545837402
+tt0102091,"[Biography, Drama]",6,And the Wind Returneth,29,1992,1.0,0.41310742497444153
+tt0113253,"[Horror, Thriller]",5,Halloween: The Curse of Michael Myers,30709,1995,4.0,0.6130850911140442
+tt0150992,"[Drama, Musical, Romance]",8,"I Have Given My Heart Away, Darling",16726,1999,6.0,0.6429175138473511
+tt8948790,"[Drama, Sport]",8,Jersey,7172,2019,1.0,0.4573694169521332
+tt1143155,[Drama],7,Treeless Mountain,1667,2008,1.0,0.3589920103549957
+tt1810833,[Drama],7,My SO Has Got Depression,459,2011,1.0,0.25113561749458313
+tt1856101,"[Action, Drama, Mystery]",8,Blade Runner 2049,447581,2017,1.0,1.385480284690857
+tt10017680,"[Action, Crime]",6,P Storm,499,2019,7.0,1.0668596029281616
+tt6344664,"[Action, Adventure, Animation]",7,Code Geass: Lelouch of the Re;Surrection,1290,2019,2.0,0.37523168325424194
+tt6424188,[Horror],3,Betsy,138,2018,4.0,0.5254713892936707
+tt0451279,"[Action, Adventure, Fantasy]",7,Wonder Woman,540155,2017,2.0,0.3693937063217163
+tt0455981,[Drama],6,Language of the Enemy,190,2008,1.0,0.28184404969215393
+tt8366502,"[Comedy, Horror]",4,Corporate Animals,2294,2019,3.0,0.9614546895027161
+tt8526872,"[Biography, Comedy, Drama]",7,Dolemite Is My Name,50184,2019,1.0,0.8863831162452698
+tt4995776,"[Drama, History, Thriller]",7,The Red Sea Diving Resort,22145,2019,8.0,0.8591065406799316
+tt0060935,[Drama],4,Sands of Beersheba,9,1964,1.0,0.670640766620636
+tt0069994,"[Horror, Thriller]",5,Don't Look in the Basement,2839,1973,4.0,0.6858493685722351
+tt0072263,"[Mystery, Thriller]",6,Ten Little Indians,2734,1974,8.0,1.0976157188415527
+tt0080684,"[Action, Adventure, Fantasy]",9,Star Wars: Episode V - The Empire Strikes Back,1139605,1980,2.0,0.560481607913971
+tt2125480,"[Documentary, Drama, Family]",7,Dancing in Jaffa,266,2013,5.0,0.9320504665374756
+tt2335921,[Documentary],8,Secret History of Hacking,73,2001,5.0,0.19532012939453125
+tt1242516,"[Drama, History, War]",4,Sword of War,1233,2009,1.0,0.5175454020500183
+tt6988116,"[Drama, Romance]",4,Kalank,11499,2019,6.0,0.4756160080432892
+tt7242142,"[Comedy, Crime, Drama]",7,Blindspotting,26300,2018,7.0,1.236469030380249
+tt1402488,"[Adventure, Animation, Comedy]",6,Happy Feet Two,41103,2011,3.0,0.9247479438781738
+tt2935516,[Thriller],7,Money,269,2017,8.0,0.4788769781589508
+tt2972982,"[Drama, Horror, Sci-Fi]",4,Exile,225,2014,1.0,1.1383843421936035
+tt3080844,"[Biography, Documentary, Drama]",8,Almost Holy,449,2015,5.0,0.932350218296051
+tt0102926,"[Crime, Drama, Thriller]",9,The Silence of the Lambs,1245277,1991,7.0,1.0811291933059692
+tt0110912,"[Crime, Drama]",9,Pulp Fiction,1793495,1994,7.0,0.6910278797149658
+tt0138704,"[Drama, Horror, Mystery]",7,Pi,168334,1998,0.0,1.0066604614257812
+tt0140307,"[Action, Crime]",6,Afraid to Die,466,1960,7.0,1.1446751356124878
+tt0224551,[Action],5,Heroes Blood,12,1992,2.0,1.0197839736938477
+tt8784956,"[Action, Crime, Drama]",5,Ava,15215,2020,7.0,0.6760905981063843
+tt8816178,[Drama],5,Blush,233,2019,1.0,0.3370293974876404
+tt1907761,"[Comedy, Drama, Family]",8,Stanley Ka Dabba,6102,2011,1.0,0.9210653901100159
+tt1991180,[Comedy],3,Southbound Heist,113,2011,3.0,0.44567081332206726
+tt4575576,"[Comedy, Drama, Family]",7,Christopher Robin,66968,2018,1.0,1.1696768999099731
+tt9626278,[Drama],7,Fourteen,332,2019,1.0,0.2699718475341797
+tt9736976,[Thriller],5,Killer in Suburbia,108,2020,8.0,0.5056267380714417
+tt9850064,"[Adventure, Animation, Drama]",6,Children of the Sea,1393,2019,1.0,0.9944674372673035
+tt9850370,"[Documentary, Drama, History]",6,#Anne Frank Parallel Stories,903,2019,5.0,0.9379962086677551
+tt2146590,[Horror],5,Hollywood Nightmare,45,2012,4.0,0.9765884876251221
+tt2231505,"[Adventure, Animation, Family]",6,7 Sea Pirates,142,2012,2.0,0.8801174163818359
+tt2250234,"[Action, Adventure, Fantasy]",5,SAGA: Curse of the Shadow,3284,2013,2.0,0.341717004776001
+tt2505294,[Drama],6,Ask Me Anything,11429,2014,1.0,0.2769807279109955
+tt3569356,"[Comedy, Drama, Romance]",4,Not Cool,5455,2014,6.0,0.6428300142288208
+tt1300854,"[Action, Adventure, Sci-Fi]",7,Iron Man 3,744071,2013,2.0,0.3624809980392456
+tt3068192,"[Horror, Thriller]",5,Grace: The Possession,2288,2014,4.0,0.5978899598121643
+tt0285624,"[Action, Crime, Drama]",5,"Vendetta: No Conscience, No Mercy",251,2004,7.0,0.7295985817909241
+tt2081194,"[Comedy, Horror]",4,Hansel & Gretel Get Baked,3417,2013,3.0,0.9549099802970886
+tt2093255,"[Horror, Sci-Fi]",3,Dark Medicine,137,2013,4.0,0.5188915729522705
+tt2130182,[Thriller],5,The Next Deathwish: A Daughter's Revenge,18,2013,8.0,0.5436623096466064
+tt2396566,"[Biography, Documentary, Music]",7,20 Feet from Stardom,12216,2013,5.0,0.3708966076374054
+tt0145681,"[Crime, Drama, Mystery]",7,The Bone Collector,152389,1999,7.0,1.07573401927948
+tt8745960,"[Fantasy, Horror, Mystery]",6,Daniel Isn't Real,5328,2019,0.0,0.7506396174430847
+tt9024292,[Thriller],4,InstaPsycho,217,2020,8.0,0.5221977829933167
+tt9143084,[Documentary],5,The Great American Lie,56,2020,5.0,0.3060886859893799
+tt1686821,"[Action, Comedy, Drama]",6,Vampire Academy,51330,2014,1.0,1.253192663192749
+tt1728981,"[Drama, Romance, Thriller]",7,Memories of a Lost Love,63,2011,6.0,1.2121086120605469
+tt1918734,[Sci-Fi],5,2067,2277,2020,3.0,0.9931279420852661
+tt3748528,"[Action, Adventure, Sci-Fi]",8,Rogue One: A Star Wars Story,542618,2016,2.0,0.4252823293209076
+tt3829920,"[Action, Biography, Drama]",8,Only the Brave,55920,2017,1.0,1.0249300003051758
+tt4085084,"[Drama, Thriller]",6,Disorder,5656,2015,8.0,0.7166882753372192
+tt4209174,"[Drama, Sci-Fi, Thriller]",5,Chimera Strain,1144,2018,8.0,0.791916012763977
+tt1009012,"[Biography, Drama]",4,The Anna Nicole Smith Story,533,2007,1.0,0.2970391809940338
+tt6189022,"[Action, Thriller]",6,Angel Has Fallen,74723,2019,8.0,0.9444118142127991
+tt6865690,"[Comedy, Drama]",7,The Professor,21906,2018,1.0,0.8835845589637756
+tt1327773,"[Biography, Drama]",7,Lee Daniels' The Butler,107251,2013,1.0,0.35416147112846375
+tt1356392,"[Drama, Mystery, Thriller]",4,Knockdown,230,2011,8.0,1.1941531896591187
+tt1489887,[Comedy],7,Booksmart,87391,2019,3.0,0.4787796139717102
+tt1526932,[Action],7,Cowboys: Gang Life 4 Ever,6,2008,2.0,1.055686593055725
+tt1568346,"[Crime, Drama, Mystery]",8,The Girl with the Dragon Tattoo,414493,2011,7.0,1.1022614240646362
+tt8515442,"[Action, Sci-Fi, Thriller]",8,iBOT,14,2018,8.0,0.9192185997962952
+tt1270798,"[Action, Adventure, Sci-Fi]",8,X-Men: First Class,639386,2011,2.0,0.4192311763763428
+tt2731398,[Documentary],8,Fifi Howls from Happiness,399,2013,5.0,0.09843742847442627
+tt1086064,"[Adventure, Comedy, Music]",6,Bill & Ted Face the Music,21313,2020,3.0,0.9340340495109558
+tt0409011,"[Adventure, Comedy, Romance]",5,Lovewrecked,13968,2005,3.0,1.1564524173736572
+tt2118707,"[Drama, Romance, Thriller]",7,Pretty Perfect,14,2014,6.0,1.2137259244918823
+tt2443822,"[Drama, Horror, Thriller]",6,The Boy,4551,2015,0.0,1.180654764175415
+tt2481498,"[Biography, Crime, Drama]",7,"Extremely Wicked, Shockingly Evil and Vile",74700,2019,7.0,0.9710712432861328
+tt0032093,[Drama],6,Block Party,33,1938,1.0,0.7707192897796631
+tt0041866,[Western],7,She Wore a Yellow Ribbon,15619,1949,3.0,1.1586467027664185
+tt0054271,"[Adventure, Crime, Mystery]",6,Holiday in Spain,287,1960,2.0,1.697648525238037
+tt0138510,"[Comedy, Fantasy, Horror]",6,Idle Hands,39270,1999,3.0,1.0177828073501587
+tt1709652,"[Action, Adventure, Animation]",6,Dragon Age: Dawn of the Seeker,2790,2012,2.0,0.33195260167121887
+tt1800240,"[Horror, Mystery, Thriller]",3,Phobia,179,2013,0.0,0.6557717323303223
+tt1850418,"[Biography, Drama, Fantasy]",7,To Write Love on Her Arms,2814,2012,1.0,0.3513786792755127
+tt3896198,"[Action, Adventure, Comedy]",8,Guardians of the Galaxy Vol. 2,555874,2017,2.0,0.9198600649833679
+tt4060244,[Drama],4,In God's Time,80,2017,1.0,0.44890284538269043
+tt0929632,[Drama],7,Precious,104585,2009,1.0,0.3513678014278412
+tt1022603,"[Comedy, Drama, Romance]",8,500 Days of Summer,466764,2009,6.0,0.6875603199005127
+tt6131632,"[Comedy, Musical]",9,If You're Looking for Trouble,96,2009,3.0,0.3627642095088959
+tt7427356,[Comedy],6,The Last Laugh,4785,2019,3.0,0.4096828103065491
+tt7468056,"[Action, Crime]",7,The Outlaws,4090,2017,7.0,1.0544593334197998
+tt0485920,"[Action, Crime, Drama]",4,Vengeance,133,2006,7.0,0.7551944851875305
+tt1512240,"[Comedy, Crime, Drama]",6,Thin Ice,4607,2011,7.0,0.965707004070282
+tt8354112,[Documentary],8,Mosul,1560,2019,5.0,0.4903776943683624
+tt3247998,[Drama],5,Samad Goes to War,29,1986,1.0,0.46289923787117004
+tt3264494,"[Action, Drama]",6,Friend 2,505,2013,1.0,0.9466969966888428
+tt3463250,[Drama],8,Farewell,96,2014,1.0,0.33399882912635803
+tt1104001,"[Action, Adventure, Sci-Fi]",7,TRON: Legacy,310334,2010,2.0,0.35934150218963623
+tt0026266,"[Adventure, Drama, Romance]",7,David Copperfield,3692,1935,6.0,1.2483282089233398
+tt0058453,"[Comedy, Romance]",6,Paris When It Sizzles,7684,1964,3.0,0.9052199721336365
+tt2238174,[Drama],7,The Redemption of the Fish,9,2013,1.0,0.4930170774459839
+tt2392672,[Comedy],7,Reality,5190,2014,3.0,0.4673272371292114
+tt0100789,"[Action, Crime, Drama]",6,Crackdown,38,1991,7.0,0.7790399789810181
+tt0103064,"[Action, Sci-Fi]",8,Terminator 2: Judgment Day,981233,1991,2.0,0.940617024898529
+tt0111113,[Drama],4,The Pamela Principle 2,174,1994,1.0,0.389013409614563
+tt0111423,"[Action, Crime, Drama]",6,Heaven and Earth,153,1994,7.0,0.716286301612854
+tt9048840,[Drama],6,Charm City Kings,597,2020,1.0,0.24866126477718353
+tt9059850,[Drama],8,Dreaming Grand Avenue,5,2020,1.0,0.4937209188938141
+tt9214832,"[Comedy, Drama, Romance]",7,Emma.,21376,2020,6.0,0.6669857501983643
+tt1733260,[Drama],7,Silver or Lead,26,2010,1.0,0.36346232891082764
+tt1879066,[Drama],6,Troubled Child,209,2012,1.0,0.28361785411834717
+tt2018136,"[Action, Crime, Horror]",4,Devil's Mile,394,2014,4.0,1.396711826324463
+tt4121306,"[Action, Drama, Romance]",7,Paradise in Heart,56,2014,6.0,1.10386323928833
+tt4285988,[Thriller],5,The Price,62,2015,8.0,0.543779194355011
+tt10080270,"[Romance, Thriller]",6,Killing Sarai,352,2019,8.0,1.0418903827667236
+tt1028528,"[Action, Adventure, Thriller]",7,Death Proof,265134,2007,2.0,1.0355510711669922
+tt6133484,"[Adventure, Drama, Family]",7,Raakshas,26,2018,1.0,1.018402338027954
+tt1340703,"[Drama, Family]",5,Angels in Our Midst,43,2007,1.0,0.4149074852466583
+tt1485763,"[Action, Adventure, Animation]",8,One Piece: Strong World,4447,2009,2.0,0.4180166721343994
+tt5524630,"[Action, Crime, Thriller]",5,The Brave,590,2019,8.0,1.2860687971115112
+tt2690226,[Drama],6,The Chaperone,1070,2018,1.0,0.2869328558444977
+tt1095217,"[Crime, Drama]",7,Bad Lieutenant: Port of Call New Orleans,73575,2009,7.0,0.5676544308662415
+tt0291424,"[Action, Crime, Drama]",4,Bounty Huntress: Undercover,124,2001,7.0,0.756542444229126
+tt2452386,"[Comedy, Drama]",7,The Fundamentals of Caring,56420,2016,1.0,0.8819432854652405
+tt2469760,"[Horror, Thriller]",4,Cam2Cam,781,2014,4.0,0.5563340783119202
+tt0066826,[Drama],6,The Touch,1402,1971,1.0,0.4463658630847931
+tt0162211,"[Horror, Sci-Fi]",3,Deadly Instincts,996,1997,4.0,0.5103796720504761
+tt1698648,[Comedy],6,Girl Most Likely,14652,2012,3.0,0.3917805254459381
+tt1860242,"[Biography, Crime, Drama]",7,The Highwaymen,70888,2019,7.0,0.5803922414779663
+tt1951169,[Drama],6,The Price to Pay,6,2008,1.0,0.501415491104126
+tt6886080,[Drama],6,To the Stars,912,2019,1.0,0.24449290335178375
+tt7014356,"[Adventure, Family, Fantasy]",3,Anastasia,315,2020,2.0,0.960008978843689
+tt7315570,"[Comedy, Romance]",5,Santa Girl,783,2019,3.0,0.8050339221954346
+tt0476985,"[Horror, Thriller]",2,Aberration,265,2007,4.0,0.6005744338035583
+tt1433810,[Drama],7,Mumbai Diaries,12307,2010,1.0,0.3516997992992401
+tt1480662,[Drama],7,Illegal,73,2010,1.0,0.356120765209198
+tt1483324,"[Comedy, Romance]",6,At Middleton,7775,2013,3.0,0.8218637704849243
+tt1645131,"[Drama, Romance]",6,Romeo and Juliet,10963,2013,6.0,0.4379155933856964
+tt8076344,"[Adventure, Animation, Family]",7,Penguin Highway,1853,2018,2.0,0.8416808843612671
+tt8128188,"[Drama, Sport]",6,High Flying Bird,7336,2019,1.0,0.28916311264038086
+tt5577494,[Drama],6,Clemency,2629,2019,1.0,0.2902338206768036
+tt2949196,"[Horror, Mystery, Thriller]",4,I Lived,765,2015,0.0,0.5759599804878235
+tt0034928,"[Action, Adventure, Family]",7,The Jungle Book,3722,1942,2.0,0.7176862359046936
+tt0077713,"[Horror, Thriller]",6,I Spit on Your Grave,25646,1978,4.0,0.709514856338501
+tt8923482,"[Documentary, History]",8,One Child Nation,4317,2019,5.0,0.4897630214691162
+tt2357866,[Horror],3,Axeman,218,2013,4.0,0.5195572972297668
+tt2387408,"[Horror, Mystery, Thriller]",5,The Damned,5935,2013,0.0,0.5136839151382446
+tt2515086,"[Documentary, Music]",4,One Direction: This Is Us,23389,2013,5.0,0.10055215656757355
+tt2548396,"[Action, Adventure, Horror]",6,The Cloverfield Paradox,93559,2018,2.0,1.0573954582214355
+tt9358160,[Drama],6,Light from Light,387,2019,1.0,0.3068038523197174
+tt1179069,"[Horror, Mystery, Thriller]",6,6 Souls,32087,2010,0.0,0.5248607993125916
+tt1934172,"[Action, Drama, Sport]",7,Heroes of Dirt,85,2015,1.0,0.9891601800918579
+tt4126870,"[Action, Drama, Thriller]",7,At the Frontera,8,2018,8.0,1.0844347476959229
+tt4154796,"[Action, Adventure, Drama]",8,Avengers: Endgame,772959,2019,2.0,1.0282468795776367
+tt6781638,[Documentary],7,Blue,173,2018,5.0,0.13825130462646484
+tt0441889,[Documentary],7,Nuremberg,79,1948,5.0,0.6065101027488708
+tt0490215,"[Drama, History]",7,Silence,98109,2016,1.0,0.3585866391658783
+tt0790636,"[Biography, Drama]",8,Dallas Buyers Club,433056,2013,1.0,0.4483477473258972
+tt1375666,"[Action, Adventure, Sci-Fi]",9,Inception,2023295,2010,2.0,0.49925222992897034
+tt1293829,[Comedy],4,A Midsummer Comedy,477,2009,3.0,0.40423908829689026
+tt3120280,"[Comedy, Drama, Romance]",6,Sierra Burgess Is a Loser,33917,2018,6.0,0.6385191679000854
+tt4729638,[Horror],4,Psychopath,7,2020,4.0,0.5825839638710022
+tt4777008,"[Adventure, Family, Fantasy]",7,Maleficent: Mistress of Evil,79588,2019,2.0,0.8429888486862183
+tt9600932,[Documentary],6,The Brink,644,2019,5.0,0.14252418279647827
+tt1169133,"[Crime, Drama, Thriller]",5,American Bully,330,2009,7.0,1.0297729969024658
+tt1172997,"[Comedy, Family]",4,Babysitters Beware,336,2009,3.0,0.4042022228240967
+tt1778359,"[Animation, Crime, Documentary]",8,The Silent Truth,40,2010,5.0,1.0030497312545776
+tt1954330,"[Comedy, Crime, Horror]",6,Random Acts of Violence,379,2012,3.0,1.3331679105758667
+tt4154664,"[Action, Adventure, Sci-Fi]",7,Captain Marvel,427642,2019,2.0,0.37527742981910706
+tt10122042,[Documentary],8,Kingdom Men Rising,42,2019,5.0,0.21571782231330872
+tt12217840,"[Adventure, Drama, Fantasy]",6,The Enchanting Phantom,60,2020,1.0,1.0298515558242798
+tt7671064,"[Comedy, Drama]",7,Brittany Runs a Marathon,14680,2019,1.0,0.8846710324287415
+tt0451109,[Horror],2,Dark Harvest II: The Maize,2574,2004,4.0,0.5033670663833618
+tt1650043,"[Comedy, Family]",6,Diary of a Wimpy Kid: Rodrick Rules,25687,2011,3.0,0.3908199667930603
+tt1650060,"[Action, Adventure, Drama]",6,SGT. Will Gardner,914,2019,2.0,1.0091832876205444
+tt8080302,"[Documentary, Family]",7,Penguins,1287,2019,5.0,0.38270676136016846
+tt1259521,[Horror],7,The Cabin in the Woods,370119,2011,4.0,0.6620890498161316
+tt1307002,"[Action, Crime, Drama]",4,Redemption,510,2009,7.0,1.1748459339141846
+tt2564156,[Documentary],8,In God We Trust,26,2013,5.0,0.19388240575790405
+tt2837574,"[Biography, Comedy, Crime]",7,The Old Man & the Gun,39386,2018,3.0,1.0381346940994263
+tt3422314,[Drama],5,The First Line,244,2014,1.0,0.32517552375793457
+tt0357930,"[Drama, Thriller]",5,The Scare Hole,355,2004,8.0,0.6939093470573425
