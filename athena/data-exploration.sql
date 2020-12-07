@@ -94,8 +94,8 @@ join title_ratings tratings on tbasics.tconst = tratings.tconst
 where tbasics.startyear <= year(now()) 
 and tbasics.titleType = 'movie' 
 and tbasics.isadult = 0
-and coalesce(takas.language, 'en') = 'en'
-and coalesce(takas.region, 'US') = 'US'
+and takas.language = 'en'
+and takas.region = 'US'
 ) cnt;
 
 
