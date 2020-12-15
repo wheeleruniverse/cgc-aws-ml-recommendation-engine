@@ -196,7 +196,7 @@
             <?php 
                 $titleInstances = read_titles();
                 
-                if(isset($_GET['query']){
+                if(isset($_GET['query'])){
                     
                     $percent = null;
                     $query = $_GET['query'];
