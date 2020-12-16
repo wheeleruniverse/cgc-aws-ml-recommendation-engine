@@ -134,9 +134,33 @@
     
     function write_titles($titleInstances){
         
-        foreach($titleInstances as $i){
-            echo link_to_title($i->get_id(), $i->get_name()) . "<br/>";
+        global $self;
+        
+        # _____________________________________________________
+        # Randomize Titles and Choose First 100
+        
+        shuffle($titleInstances);
+        $pageInstances = array_slice($titleInstances, 0, 100);
+        
+        # _____________________________________________________
+        # Write the Titles
+        
+        echo "<div>";
+        foreach($pageInstances as $i){
+            
+            $id = $i->get_id();
+            $name = $i->get_name();
+            $year = $i->get_year();
+            
+            echo "<p id='$id' class='poster'>";
+            echo "<a href='$self?title=$id'>";
+            echo "<img src='/assets/img/$id.jpg' onerror=\"this.onerror=null;this.src='/assets/img/noposter.jpg';\" />";
+            echo "$name ($year)";
+            echo "</a>";
+            echo "</p>";
         }
+        echo "<p style='clear: both;'></p>";
+        echo "</div>";
     }
     
     
@@ -224,9 +248,6 @@
                     if(isset($_POST['query'])){
                         $query = $_POST['query'];
                     }
-                    else if(isset($_GET['title'])){
-                        $query = $_GET['title'];
-                    }
                     echo "<input type='text' name='query' value='$query' />"
                 ?>
                 <input type="submit" value="Search" />
@@ -239,6 +260,8 @@
                     
                     $percent = null;
                     $query = $_POST['query'];
+                    unset($_POST);
+                    
                     $titleNames = array_column($titleInstances, 'name');
                     $found = closest_word($query, $titleNames, $percent);
                     
@@ -281,10 +304,11 @@
                     $clusterInstances = find_by_cluster($titleInstances, $targetCluster);
                     $distanceInstances = find_by_distance($clusterInstances, $targetName);
                     
+                    echo "Title: $targetName <hr/>";
+                    
                     foreach($distanceInstances as $i){
                         $distanceName = $i->get_name();
-                        $distanceDist = $i->get_distance();
-                        echo "I recommend $distanceName (Target: $targetDistance | Recommendation: $distanceDist) <br/>";
+                        echo "I recommend $distanceName<br/>";
                     }
                 }
                 else {

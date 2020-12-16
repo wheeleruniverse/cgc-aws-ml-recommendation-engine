@@ -1,0 +1,16 @@
+.poster {
+    float: left;
+    font-size: 1em;
+    margin-bottom: 0.5em;
+    margin-right: 1%;
+    text-align: center;
+    width: 19%;
+}
+
+.poster > a {
+    text-decoration: none
+}
+
+.poster > img {
+    width: 100%;
+}
