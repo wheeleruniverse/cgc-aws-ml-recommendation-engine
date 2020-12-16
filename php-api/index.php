@@ -1,13 +1,20 @@
 <?php 
     
-    $self = "https://example.com";
+    $self = "https://wheelerrecommends.com/";
     
     class Title {
         
+        # Fields
         public $id;
-        public $name;
         public $cluster;
         public $distance;
+        public $genres;
+        public $name;
+        public $rating;
+        public $votes;
+        public $year;
+        
+        # Generated Fields
         public $distanceDiff;
         
         
@@ -16,12 +23,6 @@
         }
         function set_id($id){
             $this->id = $id;
-        }
-        function get_name(){
-            return $this->name;
-        }
-        function set_name($name){
-            $this->name = $name;
         }
         function get_cluster(){
             return $this->cluster;
@@ -35,6 +36,38 @@
         function set_distance($distance){
             $this->distance = $distance;
         }
+        function get_genres(){
+            return $this->genres;
+        }
+        function set_genres($genres){
+            $this->genres = $genres;
+        }
+        function get_name(){
+            return $this->name;
+        }
+        function set_name($name){
+            $this->name = $name;
+        }
+        function get_rating(){
+            return $this->rating;
+        }
+        function set_rating($rating){
+            $this->rating = $rating;
+        }
+        function get_votes(){
+            return $this->votes;
+        }
+        function set_votes($votes){
+            $this->votes = $votes;
+        }
+        function get_year(){
+            return $this->year;
+        }
+        function set_year($year){
+            $this->year = $year;
+        }
+        
+        
         function get_distanceDiff(){
             return $this->distanceDiff;
         }
@@ -66,21 +99,27 @@
         
         $idx = 0;
         $titleInstances = array();
-        if(($file = fopen("imdb.csv", "r")) !== FALSE){
+        if(($file = fopen("/var/task/imdb.csv", "r")) !== FALSE){
             while(($row = fgetcsv($file)) !== FALSE){
                 $idx++;
                 if ($idx == 1){
                     continue;
                 }
                 $cnt = count($row);
+                
                 $inst = new Title();
                 $inst->set_id($row[0]);
-                $inst->set_name($row[1]);
-                $inst->set_cluster($row[2]);
-                $inst->set_distance($row[3]);
+                $inst->set_genres($row[1]);
+                $inst->set_rating($row[2]);
+                $inst->set_name($row[3]);
+                $inst->set_votes($row[4]);
+                $inst->set_year($row[5]);
+                $inst->set_cluster($row[6]);
+                $inst->set_distance($row[7]);
+
                 $titleInstances[] = $inst;
             }
-            fclose($handle);
+            fclose($file);
         }
         return $titleInstances;
     }
@@ -174,8 +213,8 @@
 ?>
 <html>
     <head>
-        <style>
-        </style>
+        <link rel="shortcut icon" href="/assets/img/favicon.ico">
+        <link rel="stylesheet" href="/assets/css/main.css"/>
     </head>
     <body>
         <div>
@@ -236,6 +275,9 @@
                         $distanceDist = $i->get_distance();
                         echo "I recommend $distanceName (Target: $targetDistance | Recommendation: $distanceDist) <br/>";
                     }
+                }
+                else {
+                    write_titles($titleInstances);
                 }
             ?>
         </div>
