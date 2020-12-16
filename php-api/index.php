@@ -125,27 +125,27 @@
     }
     
     
-    function link_to_title($name){
+    function link_to_title($id, $name){
         
         global $self;
-        return "<a href='$self?title=$name'>$name</a>";
+        return "<a href='$self?title=$id'>$name</a>";
     }
     
     
     function write_titles($titleInstances){
         
         foreach($titleInstances as $i){
-            echo link_to_title($i->get_name()) . "<br/>";
+            echo link_to_title($i->get_id(), $i->get_name()) . "<br/>";
         }
     }
     
     
-    function find_by_name($titleInstances, $targetName){
+    function find_by_id($titleInstances, $targetId){
         
         $target = null;
         foreach($titleInstances as $i){
-            $titleName = $i->get_name();
-            if ($titleName == $targetName){
+            $titleId = $i->get_id();
+            if ($titleId == $targetId){
                 $target = $i;
                 break;
             }
@@ -218,11 +218,11 @@
     </head>
     <body>
         <div>
-            <form id="search-form" action="" method="GET">
+            <form id="search-form" action="" method="POST">
                 <?php 
                     $query = "";
-                    if(isset($_GET['query'])){
-                        $query = $_GET['query'];
+                    if(isset($_POST['query'])){
+                        $query = $_POST['query'];
                     }
                     else if(isset($_GET['title'])){
                         $query = $_GET['title'];
@@ -235,19 +235,30 @@
             <?php 
                 $titleInstances = read_titles();
                 
-                if(isset($_GET['query'])){
+                if(isset($_POST['query'])){
                     
                     $percent = null;
-                    $query = $_GET['query'];
+                    $query = $_POST['query'];
                     $titleNames = array_column($titleInstances, 'name');
                     $found = closest_word($query, $titleNames, $percent);
                     
+                    $inst = null;
+                    foreach($titleInstances as $i){
+                        $titleName = $i->get_name();
+                        if($titleName == $found){
+                            $inst = $i;
+                            break;
+                        }
+                    }
+                    
+                    $inst_id = $inst->get_id();
+                    
                     if ($percent == 1){
                         global $self;
-                        header("Location: $self?title=$found");
+                        header("Location: $self?title=$inst_id");
                     }
                     else if($percent >= 0.5){
-                        echo "Did you mean " . link_to_title($found) . "? (" . round($percent * 100, 2) . "%) <br/>";
+                        echo "Did you mean " . link_to_title($inst_id, $found) . "? (" . round($percent * 100, 2) . "%) <br/>";
                     }
                     else {
                         echo "No Results";
@@ -256,7 +267,7 @@
                 else if(isset($_GET['title'])){
                     
                     $title = $_GET['title'];
-                    $target = find_by_name($titleInstances, $title);
+                    $target = find_by_id($titleInstances, $title);
                     
                     if ($target == null){
                         echo "Could Not Find Title: '$title'";
