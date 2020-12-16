@@ -1,6 +1,6 @@
 <?php 
     
-    $self = "https://wheelerrecommends.com/";
+    $self = "https://wheelerrecommends.com";
     
     class Title {
         
