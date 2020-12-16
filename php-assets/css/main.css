@@ -11,6 +11,6 @@
     text-decoration: none
 }
 
-.poster > img {
+.poster > a > img {
     width: 100%;
 }
