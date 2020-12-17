@@ -136,15 +136,6 @@
         
         global $self;
         
-        # _____________________________________________________
-        # Randomize Titles and Choose First 100
-        
-        shuffle($titleInstances);
-        $pageInstances = array_slice($titleInstances, 0, 100);
-        
-        # _____________________________________________________
-        # Write the Titles
-        
         echo "<div>";
         foreach($pageInstances as $i){
             
@@ -157,10 +148,10 @@
             echo "<img src='/assets/img/$id.jpg' onerror=\"this.onerror=null;this.src='/assets/img/noposter.jpg';\" />";
             
             $name_substring = null;
-            if(strlen($name) > 36){
-                $name_substring = substr($name, 0, 33) . "...";
+            if(strlen($name) > 34){
+                $name_substring = substr($name, 0, 31) . "...";
             } else {
-                $name_substring = substr($name, 0, 36);
+                $name_substring = substr($name, 0, 34);
             }
             
             echo "$name_substring ($year)";
@@ -169,6 +160,19 @@
         }
         echo "<p style='clear: both;'></p>";
         echo "</div>";
+    }
+    
+    
+    function write_title($title){
+        
+        $id = $title->get_id();
+        $genres = $title->get_genres();
+        $name = $title->get_name();
+        $rating = $title->get_rating();
+        $votes = $title->get_votes();
+        $year = $title->get_year();
+        
+        include "/var/task/title.php";
     }
     
     
@@ -238,15 +242,14 @@
         # Sort By distanceDiff
         usort($titleInstances, fn($a, $b) => strcmp($a->get_distanceDiff(), $b->get_distanceDiff()));
         
-        
-        # Limit 9
-        return array_slice($titleInstances, 0, 9);
+        return $titleInstances;
     }
 ?>
 <html>
     <head>
         <link rel="shortcut icon" href="/assets/img/favicon.ico">
         <link rel="stylesheet" href="/assets/css/main.css"/>
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
     </head>
     <body>
         <div>
@@ -312,15 +315,19 @@
                     $clusterInstances = find_by_cluster($titleInstances, $targetCluster);
                     $distanceInstances = find_by_distance($clusterInstances, $targetName);
                     
-                    echo "Title: $targetName <hr/>";
+                    write_title($target);
                     
-                    foreach($distanceInstances as $i){
-                        $distanceName = $i->get_name();
-                        echo "I recommend $distanceName<br/>";
-                    }
+                    echo "<br/>";
+                    echo "<hr/>";
+                    echo "<h1>Recommendations</h1>";
+                    
+                    $pageInstances = array_slice($distanceInstances, 0, 9);
+                    write_titles($pageInstances);
                 }
                 else {
-                    write_titles($titleInstances);
+                    shuffle($titleInstances);
+                    $pageInstances = array_slice($titleInstances, 0, 100);
+                    write_titles($pageInstances);
                 }
             ?>
         </div>

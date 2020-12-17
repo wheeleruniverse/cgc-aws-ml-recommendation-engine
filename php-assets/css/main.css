@@ -1,3 +1,35 @@
+
+#title {
+    display: flex;
+}
+
+#title-lhs {
+    flex: 0 0 20%;
+    padding: 10px;
+}
+
+#title-lhs > img {
+    width: 100%;
+}
+
+#title-rhs {
+    flex: 1;
+    font-size: 20px;
+    padding: 10px;
+}
+
+
+.checked {
+    color: orange;
+}
+
+.imdb {
+    background-color: black;
+    color: yellow;
+    font-size: 80px;
+    line-height: 0.5;
+}
+
 .poster {
     float: left;
     font-size: 1em;
@@ -14,3 +46,8 @@
 .poster > a > img {
     width: 100%;
 }
+
+
+
+            
+            
