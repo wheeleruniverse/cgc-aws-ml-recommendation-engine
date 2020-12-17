@@ -26,8 +26,8 @@
 .imdb {
     background-color: black;
     color: yellow;
-    font-size: 80px;
-    line-height: 0.5;
+    font-size: 80px !important;
+    line-height: 0.5  !important;
 }
 
 .poster {
