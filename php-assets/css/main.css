@@ -1,23 +1,15 @@
 
+body {
+    background-color: rgb(240, 246, 252);
+}
+
+a {
+    text-decoration: none;
+}
+
 #title {
     display: flex;
 }
-
-#title-lhs {
-    flex: 0 0 20%;
-    padding: 10px;
-}
-
-#title-lhs > img {
-    width: 100%;
-}
-
-#title-rhs {
-    flex: 1;
-    font-size: 20px;
-    padding: 10px;
-}
-
 
 .checked {
     color: orange;
@@ -26,28 +18,12 @@
 .imdb {
     background-color: black;
     color: yellow;
-    font-size: 80px !important;
-    line-height: 0.5  !important;
-}
-
-.poster {
-    float: left;
-    font-size: 1em;
-    margin-bottom: 0.5em;
-    margin-right: 1%;
-    text-align: center;
-    width: 19%;
-}
-
-.poster > a {
-    text-decoration: none
+    font-size: 5em !important;
+    line-height: 0.5em !important;
 }
 
 .poster > a > img {
     width: 100%;
 }
 
-
-
-            
             

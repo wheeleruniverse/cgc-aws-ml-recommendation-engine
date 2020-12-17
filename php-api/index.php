@@ -247,8 +247,16 @@
 ?>
 <html>
     <head>
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+    
+        <!-- Favicon -->
         <link rel="shortcut icon" href="/assets/img/favicon.ico">
+        
+        <!-- Custom CSS -->
         <link rel="stylesheet" href="/assets/css/main.css"/>
+        <link rel="stylesheet" href="/assets/css/media.css"/>
+        
+        <!-- Font Awesome CSS -->
         <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
     </head>
     <body>
