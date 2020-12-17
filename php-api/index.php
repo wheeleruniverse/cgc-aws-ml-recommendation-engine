@@ -155,7 +155,15 @@
             echo "<p id='$id' class='poster'>";
             echo "<a href='$self?title=$id'>";
             echo "<img src='/assets/img/$id.jpg' onerror=\"this.onerror=null;this.src='/assets/img/noposter.jpg';\" />";
-            echo "$name ($year)";
+            
+            $name_substring = null;
+            if(strlen($name) > 36){
+                $name_substring = substr($name, 0, 33) . "...";
+            } else {
+                $name_substring = substr($name, 0, 36);
+            }
+            
+            echo "$name_substring ($year)";
             echo "</a>";
             echo "</p>";
         }
@@ -231,8 +239,8 @@
         usort($titleInstances, fn($a, $b) => strcmp($a->get_distanceDiff(), $b->get_distanceDiff()));
         
         
-        # Limit 3
-        return array_slice($titleInstances, 0, 3);
+        # Limit 9
+        return array_slice($titleInstances, 0, 9);
     }
 ?>
 <html>
