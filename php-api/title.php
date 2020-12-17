@@ -21,7 +21,7 @@
                 foreach(range(0, $total - 1) as $i){
                     echo "<span class='fa fa-star'></span>";
                 }
-                echo "($votes);";
+                echo " (" . number_format($votes) . ")";
             ?>
         </div>
         <br/><br/>
