@@ -137,7 +137,7 @@
         global $self;
         
         echo "<div>";
-        foreach($pageInstances as $i){
+        foreach($titleInstances as $i){
             
             $id = $i->get_id();
             $name = $i->get_name();
