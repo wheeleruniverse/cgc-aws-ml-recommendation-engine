@@ -148,10 +148,10 @@
             echo "<img src='/assets/img/$id.jpg' onerror=\"this.onerror=null;this.src='/assets/img/noposter.jpg';\" />";
             
             $name_substring = null;
-            if(strlen($name) > 34){
-                $name_substring = substr($name, 0, 31) . "...";
+            if(strlen($name) > 20){
+                $name_substring = substr($name, 0, 17) . "...";
             } else {
-                $name_substring = substr($name, 0, 34);
+                $name_substring = substr($name, 0, 20);
             }
             
             echo "$name_substring ($year)";
