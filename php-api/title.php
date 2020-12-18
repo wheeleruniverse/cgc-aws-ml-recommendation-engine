@@ -1,4 +1,4 @@
-<div id="title">
+<div id="flex">
     <div id="title-lhs">
         <?php echo "<img src='/assets/img/$id.jpg' onerror=\"this.onerror=null;this.src='/assets/img/noposter.jpg';\" />"; ?>
     </div>

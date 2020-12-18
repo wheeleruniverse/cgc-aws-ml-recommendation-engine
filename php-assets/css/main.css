@@ -1,18 +1,33 @@
 
 body {
     background-color: rgb(240, 246, 252);
+    font-family: helvetica;
 }
 
 a {
     text-decoration: none;
 }
 
-#title {
-    display: flex;
+#brand-logo {
+    flex: 0 0 10%;
+    padding: 1em;
+}
+
+#brand-logo > a > img {
+    width: 100%;
 }
 
 .checked {
     color: orange;
+}
+
+.flex {
+    display: flex;
+}
+
+.github {
+    color: black;
+    padding: 0.25em;
 }
 
 .imdb {

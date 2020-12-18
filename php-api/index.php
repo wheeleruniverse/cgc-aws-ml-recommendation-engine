@@ -261,16 +261,21 @@
     </head>
     <body>
         <div>
-            <form id="search-form" action="" method="POST">
-                <?php 
-                    $query = "";
-                    if(isset($_POST['query'])){
-                        $query = $_POST['query'];
-                    }
-                    echo "<input type='text' name='query' value='$query' />"
-                ?>
-                <input type="submit" value="Search" />
-            </form>
+            <div class="flex">
+                <div id="brand-logo" >
+                    <a href="https://wheelerrecommends.com">
+                        <img src="/assets/css/favicon.jpg" />
+                    </a>
+                </div>
+                <div id="brand-name">
+                    <h1>WHEELER RECOMMENDS</h1>
+                </div>
+                <div>
+                    <a href="https://github.com/wheelers-websites/CloudGuruChallenge_1020">
+                        <i class="fa fa-github github"></i>
+                    </a>
+                </div>
+            </div>
             <hr/>
             <?php 
                 $titleInstances = read_titles();
