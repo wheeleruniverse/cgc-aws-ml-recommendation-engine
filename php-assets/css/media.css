@@ -1,5 +1,39 @@
 
 @media screen {
+    
+    #brand-name {
+        flex: 1;
+        font-size: 0.4em;
+        margin-left: 0em;
+        position: relative;
+        top: 2.2em;
+        width: 75%;
+    }
+    #title-lhs {
+        flex: 0 0 0%;
+    }
+    #title-lhs > img {
+        width: 0%;
+    }
+    #title-rhs {    
+        flex: 1;
+        font-size: 0.5em;
+    }
+    .github {
+        font-size: 1.5em !important;
+    }
+    .poster {
+        float: left;
+        font-size: 0.38em;
+        margin-bottom: 0.5em;
+        margin-right: 1%;
+        text-align: center;
+        width: 32%;
+    }
+}
+
+
+@media screen and (min-width: 320px) {
 
     #brand-name {      
         flex: 1;

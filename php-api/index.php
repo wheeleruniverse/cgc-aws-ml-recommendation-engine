@@ -75,25 +75,6 @@
             $this->distanceDiff = $distanceDiff;
         }
     }
-
-    function closest_word($input, $words, &$percent = null){
-        
-        $shortest = -1;
-        foreach($words as $i){
-            $lev = levenshtein($input, $i);
-            if ($lev == 0){
-                $closest = $i;
-                $shortest = 0;
-                break;
-            }
-            if ($lev <= $shortest || $shortest < 0){
-                $closest = $i;
-                $shortest = $lev;
-            }
-        }
-        $percent = 1 - levenshtein($input, $closest) / max(strlen($input), strlen($closest));
-        return $closest;
-    }
     
     function read_titles(){
         
@@ -122,13 +103,6 @@
             fclose($file);
         }
         return $titleInstances;
-    }
-    
-    
-    function link_to_title($id, $name){
-        
-        global $self;
-        return "<a href='$self?title=$id'>$name</a>";
     }
     
     
@@ -264,14 +238,14 @@
             <div class="flex">
                 <div id="brand-logo" >
                     <a href="https://wheelerrecommends.com">
-                        <img src="/assets/css/favicon.jpg" />
+                        <img src="/assets/img/favicon.jpg" />
                     </a>
                 </div>
                 <div id="brand-name">
                     <h1>WHEELER RECOMMENDS</h1>
                 </div>
                 <div>
-                    <a href="https://github.com/wheelers-websites/CloudGuruChallenge_1020">
+                    <a target="_blank" href="https://github.com/wheelers-websites/CloudGuruChallenge_1020">
                         <i class="fa fa-github github"></i>
                     </a>
                 </div>
@@ -280,38 +254,7 @@
             <?php 
                 $titleInstances = read_titles();
                 
-                if(isset($_POST['query'])){
-                    
-                    $percent = null;
-                    $query = $_POST['query'];
-                    unset($_POST);
-                    
-                    $titleNames = array_column($titleInstances, 'name');
-                    $found = closest_word($query, $titleNames, $percent);
-                    
-                    $inst = null;
-                    foreach($titleInstances as $i){
-                        $titleName = $i->get_name();
-                        if($titleName == $found){
-                            $inst = $i;
-                            break;
-                        }
-                    }
-                    
-                    $inst_id = $inst->get_id();
-                    
-                    if ($percent == 1){
-                        global $self;
-                        header("Location: $self?title=$inst_id");
-                    }
-                    else if($percent >= 0.5){
-                        echo "Did you mean " . link_to_title($inst_id, $found) . "? (" . round($percent * 100, 2) . "%) <br/>";
-                    }
-                    else {
-                        echo "No Results";
-                    }
-                }
-                else if(isset($_GET['title'])){
+                if(isset($_GET['title'])){
                     
                     $title = $_GET['title'];
                     $target = find_by_id($titleInstances, $title);
@@ -332,7 +275,6 @@
                     
                     echo "<br/>";
                     echo "<hr/>";
-                    echo "<h1>Recommendations</h1>";
                     
                     $pageInstances = array_slice($distanceInstances, 0, 9);
                     write_titles($pageInstances);
@@ -346,38 +288,4 @@
         </div>
     </body>
 </html>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
