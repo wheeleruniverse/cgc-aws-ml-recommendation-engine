@@ -9,8 +9,8 @@ This project was built for the October 2020 [#CloudGuruChallenge](https://acloud
 **Live Website**: [wheelerrecommends.com](http://wheelerrecommends.com/)
 
 **Blog Posts**: 
-- [My October Cloud Guru Challenge Experience](https://dev.to/wheeleruniverse/my-october-cloud-guru-challenge-experience-5ecg)
-- [Creating Serverless Websites with AWS, Bref, and PHP](https://dev.to/aws-builders/creating-serverless-websites-with-aws-bref-and-php-203j)
+- [AWS ML Recommendation Engine](https://wheeleruniverse.netlify.app/aws-ml-recommendation-engine)
+- [Creating Serverless Websites with AWS, Bref, and PHP](https://wheeleruniverse.netlify.app/serverless-aws-bref-php)
 
 ## 📋 Overview
 
